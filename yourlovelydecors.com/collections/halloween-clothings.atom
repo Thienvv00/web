@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/halloween-clothings.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-09-08T01:55:48-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608298680375</id>
+    <published>2020-09-08T01:55:48-07:00</published>
+    <updated>2020-09-08T01:55:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/pumpkins-t-shirt"/>
+    <title>Pumpkins t-shirt</title>
+    <s:type>Clothings</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/zxc.jpg?v=1599555348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Clothings<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>halloween tees </p>
+<p>pumpkin shirts halloween</p>
+<p>pumpkin tee shirt</p>
+<p><span>A wardrobe staple, this men's classic t-shirt in a relaxed fit will update any look. • Fitted • Solid colours: 100% cotton • Heather colours: 65% cotton, 35% polyester</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothings</s:tag>
+    <s:tag>halloween clothings</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608298680375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608291307575</id>
+    <published>2020-09-08T01:42:22-07:00</published>
+    <updated>2020-09-08T01:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/scare-beagles-t-shirt"/>
+    <title>scare beagles t-shirt</title>
+    <s:type>Clothings</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/be1.jpg?v=1599554541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Clothings<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ideas for your lover</p>
+<p><span>A wardrobe staple, this men's classic t-shirt in a relaxed fit will update any look. • Fitted • Solid colours: 100% cotton • Heather colours: 65% cotton, 35% polyester</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothings</s:tag>
+    <s:tag>halloween clothings</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608291307575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608277315639</id>
+    <published>2020-09-08T00:35:39-07:00</published>
+    <updated>2020-09-08T00:35:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/you-cant-scare-me-t-shirt"/>
+    <title>You can&apos;t scare me t-shirt</title>
+    <s:type>Clothings</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/meo1.png?v=1599550539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Clothings<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-qa="ItemParagraph" class="styled__ItemParagraph-sc-1i7e6k0-1 ixNbdT">Wonderful Cats in Halloween</p>
+<p data-qa="ItemParagraph" class="styled__ItemParagraph-sc-1i7e6k0-1 ixNbdT">Some T-shirts have a Flimsy not so well made feel to them but this one is an exception. It fits well, feels well and looks good!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothings</s:tag>
+    <s:tag>halloween clothings</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608277315639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607313903671</id>
+    <published>2020-09-04T03:41:26-07:00</published>
+    <updated>2020-09-04T03:41:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-night-shirt"/>
+    <title>Halloween night shirt</title>
+    <s:type>Clothings</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/halloween-night-shirt-women-s-t-shirt-black-front_1.png?v=1599216088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Clothings<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Shirt for halloween party</span></p>
+<p><span>Freeship</span></p>
+<p><span>If you are in the US, Canada or Europe, you will receive your order within 3-7 business days after printing is complete. For all other countries, please allow between 10-14 business day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothings</s:tag>
+    <s:tag>halloween clothings</s:tag>
+    <s:tag>halloween shirt</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607313903671</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607280414775</id>
+    <published>2020-09-04T01:10:39-07:00</published>
+    <updated>2020-09-04T01:10:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-conjurer"/>
+    <title>Halloween conjurer</title>
+    <s:type>Clothings</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/p1.png?v=1599207038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Clothings<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Conjurer t-shirt</p>
+<p>Gift for Halloween</p>
+<p><span>A wardrobe staple, this men's classic t-shirt in a relaxed fit will update any look. • Fitted • Solid colours: 100% cotton • Heather colours: 65% cotton, 35% polyester</span></p>
+<p><span>If you are in the US, Canada or Europe, you will receive your order within 3-7 business days after printing is complete. For all other countries, please allow between 10-14 business day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothings</s:tag>
+    <s:tag>halloween shirt</s:tag>
+    <s:tag>halloween t-shirt</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607280414775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/kitchen.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-08-09T21:24:19-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4595714588727</id>
+    <published>2020-08-09T21:24:19-07:00</published>
+    <updated>2020-08-09T21:24:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/tall-glass-vases"/>
+    <title>Terrarium Hydroponic Plant Vases</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1462109151.jpg?v=1597033462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            6.99 - 7.99
+            <a href="https://yourlovelydecors.com/products/tall-glass-vases">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>tall glass vases</strong></span></p>
+<p><span><strong>Usage Condition:</strong> Desktop</span><br><span><strong>Finishing:</strong> Not Coated</span><br><span><strong>Style:</strong> Europe</span><br><span><strong>Model Number:</strong> J451</span><br><span><strong>Used With:</strong> Flower/Green Plant</span><br><span><strong>Set Type:</strong> YES</span><br><span><strong>Material:</strong> Other</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4595714588727</id>
+      <title>Type B</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>28553207-type-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4595714588727</id>
+      <title>Type A</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>28553207-type-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4595714588727</id>
+      <title>Type C</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>28553207-type-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543513067575</id>
+    <published>2020-07-31T19:37:52-07:00</published>
+    <updated>2020-07-31T19:37:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/glass-vase"/>
+    <title>Creative Wooden Stand Glass Terrarium Container</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1312761981.jpg?v=1596249440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            4.99 - 23.99
+            <a href="https://yourlovelydecors.com/products/glass-vase">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>tall vase</b><br><strong>Material:</strong> Wood;Wooden<br><strong>Size:</strong> M<br><strong>Function:</strong> Tabletop Vase<br><strong>Model Number:</strong> Wooden Stand Tabletop Vase</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers</s:tag>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543513067575</id>
+      <title>1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>15012716-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543513067575</id>
+      <title>2</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>15012716-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543513067575</id>
+      <title>3</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>15012716-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543513067575</id>
+      <title>4</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>15012716-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543513067575</id>
+      <title>5</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>15012716-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543513067575</id>
+      <title>6</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>15012716-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543522832439</id>
+    <published>2020-07-31T19:34:24-07:00</published>
+    <updated>2020-07-31T19:34:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/creative-nordic-glass-vase"/>
+    <title>Creative Nordic Glass Vase</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1378543586.jpg?v=1590732513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            2.99 - 14.99
+            <a href="https://yourlovelydecors.com/products/creative-nordic-glass-vase">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tall vase</strong></p>
+<p><strong>Style:</strong> Modern<br><strong>Material:</strong> Glass &amp; Crystal<br><strong>Size:</strong> S<br><strong>Function:</strong> Tabletop Vases</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers</s:tag>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>A   19.3CM height</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>17566401-a-19-3cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>B  15.8CM height</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>17566401-b-15-8cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>C  18.2CM height</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>17566401-c-18-2cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>D  18.1CM height</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>17566401-d-18-1cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>E  17.5CM height</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>17566401-e-17-5cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>F  20.5CM height</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>17566401-f-20-5cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>G  23.5CM height</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>17566401-g-23-5cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>H  19.6CM height</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>17566401-h-19-6cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>I  21.8CM height</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>17566401-i-21-8cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>J  13.8CM height</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>17566401-j-13-8cm-height</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>The wooden base</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>17566401-the-wooden-base</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>5 meter rope</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>17566401-5-meter-rope</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543522832439</id>
+      <title>A bundle of rope</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>17566401-a-bundle-of-rope</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4592500932663</id>
+    <published>2020-07-31T02:39:14-07:00</published>
+    <updated>2020-07-31T02:39:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/crystal-terrarium-container-hanging-holder-iron-stand-micro-landscape-figurines"/>
+    <title>Hanging Iron Stand Micro Landscape Figurines</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1440117978.jpg?v=1596188357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Style:</strong> Pastoral</span><br><span><strong>Size:</strong> M</span><br><span><strong>Model Number:</strong> hanging stand flower</span><br><span><strong>Function:</strong> Tabletop Vase</span><br><span><strong>Material:</strong> Metal</span><br><span><strong>Name:</strong> brand new</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Flowers</s:tag>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592500932663</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>1459890-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4592399024183</id>
+    <published>2020-07-30T19:26:07-07:00</published>
+    <updated>2020-07-30T19:26:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/flower-decoration-home-plastic-vase"/>
+    <title>Flower Decoration Home Plastic Vase</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1476595595.jpg?v=1596162370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            4.99 - 5.99
+            <a href="https://yourlovelydecors.com/products/flower-decoration-home-plastic-vase">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Style:</strong> Europe</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Size:</strong> M</span><br><span><strong>Function:</strong> Tabletop Vase</span><br><span><strong>Model Number:</strong> J927</span><br><span><strong>Color:</strong> White Pink Green</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers</s:tag>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592399024183</id>
+      <title>Green2</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>30778466-green2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592399024183</id>
+      <title>Green1</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>30778466-green1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592399024183</id>
+      <title>Pink1</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>30778466-pink1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592399024183</id>
+      <title>Pink2</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>30778466-pink2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592399024183</id>
+      <title>White2</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>30778466-white2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592399024183</id>
+      <title>White1</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>30778466-white1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543523520567</id>
+    <published>2020-05-28T23:09:45-07:00</published>
+    <updated>2020-05-28T23:09:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/clear-glass-hanging-vase-bottle-terrarium-container-plant-flower-decor-transparents-wall-hanging-glass-vase-home-decoration"/>
+    <title>Clear Glass Hanging Vase Bottle Terrarium Container</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1015697511.jpg?v=1590732587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Flower vase online</b><br><strong>Material:</strong> Glass vase<br><strong>Size:</strong> S<br><strong>Function:</strong> Wall Vase<br><strong>Style:</strong> Modern<br><strong>Model Number:</strong> Decoration Vase</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers</s:tag>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543523520567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>24025239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543519719479</id>
+    <published>2020-05-28T23:01:54-07:00</published>
+    <updated>2020-05-28T23:01:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/small-glass-vases"/>
+    <title>Crystal Glass Test Tube Vase in Wooden</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1318651970.jpg?v=1596249515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Modern<br><strong>Material:</strong> Other<br><strong>Size:</strong> M<br><strong>Function:</strong> Tabletop Vase</p>
+<p>small vases</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers</s:tag>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543519719479</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>24585476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543516114999</id>
+    <published>2020-05-28T22:57:18-07:00</published>
+    <updated>2020-05-28T22:57:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/glass-vase-of-flower"/>
+    <title>Shining Light Wedding Decoration Light Bulb</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1352032565.jpg?v=1590731840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>vase of flower</b><br><strong>Style:</strong> Pastoral<br><strong>Material:</strong> Glass &amp; Crystal<br><strong>Size:</strong> M<br><strong>Model Number:</strong> JJ<br><strong>Function:</strong> Tabletop Vase</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flowers Vase</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>vase</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543516114999</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>288876-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

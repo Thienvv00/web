@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/bathroom.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-09-16T19:30:17-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4611755540535</id>
+    <published>2020-09-16T19:30:17-07:00</published>
+    <updated>2020-09-16T19:30:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/american-black-abstract-band"/>
+    <title>American Black Abstract Band</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1416111420.jpg?v=1600309825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ideas for desk decoration<br>Decorative home<br>Coated vivid imagination</strong></p>
+<p><strong>Regional Feature:</strong> Europe<br><strong>Theme:</strong> people<br><strong>Material:</strong> Resin<br><strong>Name:</strong> American Black Abstract Band Character Sculpture<br><strong>Style:</strong> European<br><strong>Shape:</strong> Band Man<br><strong>Color:</strong> Black<br><strong>Size:</strong> About 10*28 cm / 11*28 cm / 17*28 cm / 9*27 cm<br><strong>Model Number:</strong> SB-041854<br><strong>Craft:</strong> Birthday Gift<br><strong>Business Gift:</strong> Wedding Gift<br><strong>Modern Minimalist:</strong> Miniature Model<br><strong>Artwork:</strong> Abstract Sculpture<br><strong>Wedding Decoration:</strong> Nordic Home Decor<br><strong>Nostalgic Statue:</strong> Character Sculpture<br><strong>Furnishing:</strong> Modern Art Ornament<br><strong>Modern Simplicity:</strong> Office Desktop Decoration<br><strong>Modern:</strong> Cafe Store Window Props Shop Soft Display<br><strong>Living Room:</strong> Home Decoration Accessories Modern<br><strong>Package:</strong> Carton Box + Foam + Bubble Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-H</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Band-B</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-band-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Band-A</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-band-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-B</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-A</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Band-D</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-band-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Band-C</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-band-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-G</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-F</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-D</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4611755540535</id>
+      <title>Sport-C</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>37181337-sport-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610013036599</id>
+    <published>2020-09-12T02:49:05-07:00</published>
+    <updated>2020-09-12T02:49:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/abstract-crafts-human-face-figures"/>
+    <title>Abstract Crafts Human Face Figures</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1523757822.jpg?v=1599904148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            49.99 - 51.99
+            <a href="https://yourlovelydecors.com/products/abstract-crafts-human-face-figures">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Modern decorative statues<br>Home decoration<br>Decorate the desk</strong></p>
+<p><strong>Brand Name:</strong> BOMAROLAN<br><strong>Theme:</strong> people<br><strong>Style:</strong> New Classical/Post-modern<br><strong>Material:</strong> Resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610013036599</id>
+      <title>Couple-White</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>35218982-couple-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610013036599</id>
+      <title>Couple-Black</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>35218982-couple-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610013036599</id>
+      <title>Growth-Black</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>35218982-growth-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610013036599</id>
+      <title>Growth-White</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>35218982-growth-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610013036599</id>
+      <title>Silver</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>35218982-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610013036599</id>
+      <title>Golden</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>35218982-golden</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610012610615</id>
+    <published>2020-09-12T02:43:03-07:00</published>
+    <updated>2020-09-12T02:43:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/diy-glow-in-the-dark"/>
+    <title>DIY Glow In The Dark</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1528180822.jpg?v=1599903789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Decorative ideas<br>Home decoration<br>Decorate the desk<br>Light-emitting vial</strong></p>
+<p><strong>Brand Name:</strong> LZMOU<br><strong>is_customized:</strong> No<br><strong>Pattern:</strong> Star<br><strong>Pattern:</strong> Solid Color<br><strong>Model Number:</strong> LM808<br><strong>Material:</strong> Stone<br><strong>Product:</strong> Glow Gravel Luminous Noctilucent Sand<br><strong>Material:</strong> stone<br><strong>Quantity:</strong> 1bag<br><strong>A:</strong> Wedding decoration table<br><strong>B:</strong> Party DIY Decorations<br><strong>D:</strong> Baby shower<br><strong>Occasion:</strong> Party,Wedding,Anniversary</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-gold</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-purple</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-air blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-air-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-pink</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4609294041143</id>
+    <published>2020-09-10T02:05:46-07:00</published>
+    <updated>2020-09-10T02:05:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/modern-resin-cute-girl-statue"/>
+    <title>Modern Resin Cute Girl Statue</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1511877824.jpg?v=1599728756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            36.99 - 61.99
+            <a href="https://yourlovelydecors.com/products/modern-resin-cute-girl-statue">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Modern decorative statues<br>Decorating ideas</strong></p>
+<p><strong>T</strong><strong>heme:</strong> people<br><strong>Style:</strong> Modern<br><strong>Material:</strong> Resin<br><strong>Dropshipping:</strong> Available<br><strong>Feature 1:</strong> Home decoration crafts<br><strong>Feature 2:</strong> Home decoration<br><strong>Feature 3:</strong> Desktop decoration<br><strong>Feature 5:</strong> Wine cabinet decoration<br><strong>Feature 7:</strong> gift for Wedding<br><strong>Feature 6:</strong> Couple gift for lovers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:tag>girl</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>I</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>39714615-i</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>J</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>39714615-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>G</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>39714615-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>H</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>39714615-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>M</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>39714615-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>N</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>39714615-n</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>K</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>39714615-k</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>L</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>39714615-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>E</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>39714615-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>F</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>39714615-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>Y</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>W</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-w</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>X</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-x</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>Q</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>39714615-q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>D</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>39714615-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>R</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>39714615-r</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>O</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>39714615-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>B</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>39714615-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>P</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>39714615-p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>C</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>39714615-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>U</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-u</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>V</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>A</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>39714615-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>S</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4609294041143</id>
+      <title>T</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>39714615-t</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608689537079</id>
+    <published>2020-09-08T19:46:34-07:00</published>
+    <updated>2020-09-08T19:46:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/modern-sweet-young-girl-figurines"/>
+    <title>Modern Sweet Young Girl figurines</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1434671391.jpg?v=1599619597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            36.99 - 65.99
+            <a href="https://yourlovelydecors.com/products/modern-sweet-young-girl-figurines">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Home decoration ideas<br>Decorative work table statue<br>Home decoration</strong></span></p>
+<p><span><strong>Brand Name:</strong> Homexw</span><br><span><strong>Is Smart Device:</strong> No</span><br><span><strong>is_customized:</strong> No</span><br><span><strong>Theme:</strong> people</span><br><span><strong>Style:</strong> Modern</span><br><span><strong>Material:</strong> Resin</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:tag>fall</s:tag>
+    <s:tag>girl</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Apple Girl Green</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>37599896-apple-girl-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Apple Girl White</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>37599896-apple-girl-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Arrogant Girl</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>37599896-arrogant-girl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Coffee Girl</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>37599896-coffee-girl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Rouge Girl</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>37599896-rouge-girl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Tray Girl</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>37599896-tray-girl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Bubble Girl Pink S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>37599896-bubble-girl-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Bubble Girl Gray L</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>37599896-bubble-girl-gray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Bubble Girl Gray S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>37599896-bubble-girl-gray-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Bubble Girl Green S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>37599896-bubble-girl-green-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Bubble Girl Purple L</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>37599896-bubble-girl-purple-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608689537079</id>
+      <title>Bubble Girl Purple S</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>37599896-bubble-girl-purple-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608214564919</id>
+    <published>2020-09-07T19:28:16-07:00</published>
+    <updated>2020-09-07T19:28:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/calendar-flip-manual-turning"/>
+    <title>Calendar Flip Manual Turning</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1523556177.jpg?v=1599532099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Decorate the desk<br>Office desk calendar<br>Wooden Calendar</strong></p>
+<p><strong>Material:</strong> Wood<br><strong>Style:</strong> Modern<br><strong>Theme:</strong> Architecture</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608214564919</id>
+      <title>burlywood</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>40053437-burlywood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608214564919</id>
+      <title>blue</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>40053437-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608214564919</id>
+      <title>black</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>40053437-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607927484471</id>
+    <published>2020-09-06T20:54:49-07:00</published>
+    <updated>2020-09-06T20:54:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/t-ceramic-small-snail-ornaments-bonsai"/>
+    <title>T Ceramic Small Snail Ornaments Bonsai</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1382926178.jpg?v=1599450892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            6.99 - 8.99
+            <a href="https://yourlovelydecors.com/products/t-ceramic-small-snail-ornaments-bonsai">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Decorate the desk<br>Ideas for desk decoration<br>Home decoration</strong></p>
+<p><strong>Brand Name:</strong> YXYMCF<br><strong>Material:</strong> Ceramic &amp; Enamel<br><strong>Theme:</strong> Animal<br><strong>Style:</strong> Retro and Nostalgic/Old Furniture</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607927484471</id>
+      <title>B-Big</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36344777-b-big</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607927484471</id>
+      <title>B-Small</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>36344777-b-small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607927484471</id>
+      <title>A-Big</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36344777-a-big</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607927484471</id>
+      <title>A-Small</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>36344777-a-small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607927484471</id>
+      <title>C-Big</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36344777-c-big</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607927484471</id>
+      <title>C-Small</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>36344777-c-small</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4600255414327</id>
+    <published>2020-08-21T01:43:01-07:00</published>
+    <updated>2020-08-21T01:43:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/nordic-decorative-vase-gold-vase"/>
+    <title>Nordic Decorative Vase Gold Vase</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1499282114.jpg?v=1597999389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            16.99 - 19.99
+            <a href="https://yourlovelydecors.com/products/nordic-decorative-vase-gold-vase">(50 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> BOMAROLAN<br><strong>Style:</strong> New Classical/Post-modern<br><strong>Material:</strong> ceramic<br><strong>Function:</strong> Tabletop Vase<br><strong>color:</strong> Golden</p>
+<p>Estimated delivery time 15-30 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 5 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-e-combination-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 6 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-e-combination-6-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-e-combination-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 4 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-e-combination-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 1 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-e-combination-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 2 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-e-combination-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 7 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39357406-d-combination-7-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 8 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-d-combination-8-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 5 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-d-combination-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 6 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-d-combination-6-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 3 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-d-combination-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 4 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-d-combination-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-d-combination-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D Combination 2 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-d-combination-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 7 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-c-combination-7-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 8 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-c-combination-8-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 8 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39357406-f-combination-8-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 6 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-f-combination-6-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 7 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-f-combination-7-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 4 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-f-combination-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 5 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-f-combination-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 2 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-f-combination-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 3 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-f-combination-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E Combination 7 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39357406-e-combination-7-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F Combination 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-f-combination-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>H / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A Combination 1 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-a-combination-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>F / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>G / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-g-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>D / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>E / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>B / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 5 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-c-combination-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 6 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-c-combination-6-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 3 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39357406-c-combination-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 4 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-c-combination-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-c-combination-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>C Combination 2 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-c-combination-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>B Combination 4 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-b-combination-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>B Combination 5 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-b-combination-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>B Combination 2 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39357406-b-combination-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>B Combination 3 / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39357406-b-combination-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A Combination 6 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-a-combination-6-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>B Combination 1 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-b-combination-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A Combination 4 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-a-combination-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A Combination 5 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-a-combination-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A Combination 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39357406-a-combination-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600255414327</id>
+      <title>A Combination 3 / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39357406-a-combination-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4600254726199</id>
+    <published>2020-08-21T01:37:01-07:00</published>
+    <updated>2020-08-21T01:37:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/modern-girl-vase-ceramic-miniature-flower-vase"/>
+    <title>Modern Girl Vase Ceramic Miniature  Flower Vase</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1415850968.jpg?v=1597999024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> Strongwell<br><strong>Style:</strong> Modern<br><strong>Material:</strong> Ceramic &amp; Porcelain<br><strong>Function:</strong> Tabletop Vase<br><strong>plants holder:</strong> room soft decoration<br><strong>vase ornaments:</strong> glass flower vase<br><strong>fairy garden:</strong> Europe design</p>
+<p>Estimated delivery time 16-26 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254726199</id>
+      <title>A</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>35272690-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254726199</id>
+      <title>D</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>35272690-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254726199</id>
+      <title>B</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>35272690-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254726199</id>
+      <title>C</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>35272690-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4600254005303</id>
+    <published>2020-08-21T01:31:29-07:00</published>
+    <updated>2020-08-21T01:31:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/decoration-ceramic-vase-and-fake-flower"/>
+    <title>DECORATION CERAMIC VASE AND FAKE FLOWER</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1508566066.jpg?v=1597998694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            21.99 - 23.99
+            <a href="https://yourlovelydecors.com/products/decoration-ceramic-vase-and-fake-flower">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Style:</strong> Modern</span><br><span><strong>Material:</strong> Ceramic &amp; Porcelain</span><br><span><strong>Size:</strong> S</span><br><span><strong>Function:</strong> Tabletop Vase</span><br><span><strong>Model Number:</strong> T2650</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desk accessories</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>N</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-n</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>P</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>O</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>J</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>I</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-i</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>K</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-k</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>F</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>E</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>H</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>G</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>B</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>A</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>D</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39621800-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600254005303</id>
+      <title>C</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39621800-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4594140807223</id>
+    <published>2020-08-05T02:40:51-07:00</published>
+    <updated>2020-08-05T02:40:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/nordic-resin-creative-astronaut-sculpture-figurine-store-craft-desk-decoration"/>
+    <title>Nordic Resin Creative Astronaut Sculpture Figurine Store Craft Desk Decoration</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1435403853.jpg?v=1596620463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            8.99 - 28.99
+            <a href="https://yourlovelydecors.com/products/nordic-resin-creative-astronaut-sculpture-figurine-store-craft-desk-decoration">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Theme:</strong> TV &amp; Movie Character</span><br><span><strong>Style:</strong> Europe</span><br><span><strong>Material:</strong> Resin</span><br><span><strong>Name:</strong> Nordic Resin Creative Astronaut Sculpture</span><br><span><strong>Model Number:</strong> SJ-121821</span><br><span><strong>Galaxy:</strong> Astronaut</span><br><span><strong>Theme:</strong> Desk Decor</span><br><span><strong>Cartoon:</strong> Cosmonaut</span><br><span><strong>Usage:</strong> Birthday Gifts</span><br><span><strong>Figurine:</strong> Romantic Girl Gift</span><br><span><strong>Cute:</strong> Desktop Decoration</span><br><span><strong>Suitable For:</strong> Home Decoration Accessories Morden</span><br><span><strong>Package:</strong> Carton Box + Foam + Bubble Bag</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Desk Accessories</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Shake Head</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>33750844-shake-head</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Shake Head-Heart</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>33750844-shake-head-heart</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Space Ship-Gold</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33750844-space-ship-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Wave-Silver</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>33750844-wave-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Rocket</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>33750844-rocket</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Space Ship-Silver</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33750844-space-ship-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Heart</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>33750844-heart</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Bouquet</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>33750844-bouquet</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Wave-Gold</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>33750844-wave-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Stand-B-Silver</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>33750844-stand-b-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Stand-B-Gold</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>33750844-stand-b-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Moon-A-Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>33750844-moon-a-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Moon-A-Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>33750844-moon-a-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Stand-A-Silver</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33750844-stand-a-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Stand-A-Gold</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33750844-stand-a-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Space Chair-Silver</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33750844-space-chair-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Space Chair-Gold</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33750844-space-chair-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Mini Hug-Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>33750844-mini-hug-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594140807223</id>
+      <title>Mini Hug-Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>33750844-mini-hug-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4537394462775</id>
+    <published>2020-07-31T19:27:05-07:00</published>
+    <updated>2020-07-31T19:27:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/2-pieces-set-couple-figure-home-ornaments-resin-children-miniatures-angel-figurine"/>
+    <title>Miniatures Angel Figurine</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1182449674.jpg?v=1590081441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            24.99 - 25.99
+            <a href="https://yourlovelydecors.com/products/2-pieces-set-couple-figure-home-ornaments-resin-children-miniatures-angel-figurine">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>2 Pieces/set  Couple Figure Home Ornaments Resin Children  Miniatures Angel Figurine</strong></span></p>
+<p><span><strong>Material:</strong> Resin</span><br><span><strong>Style:</strong> Europe</span><br><span><strong>Theme:</strong> people</span><br><span><strong>Brand Name:</strong> ElimElim</span><br><span><strong>Model:</strong> KF394</span><br><span><strong>People:</strong> Fairy</span><br><span><strong>Function:</strong> Home decoraton</span><br><span id="docs-internal-guid-4ed2cf88-7fff-af19-e31f-8c20a6f52ddf"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; overflow: hidden; width: 20px; height: 21px;"><img src="https://lh3.googleusercontent.com/oOO81ESR2gyYVtCdSwOUeYAcAfJams-gOeuBXgCc__0gRTanS4_OOnXUi4W68ARgA-f4fbucRZY1fjLGQJ4yfYWTMOeys7WvXDIo4gkBqH72anmzSAFJgOzZWciSfygosf6IXCrY" width="20" height="21" style="margin-left: 0px; margin-top: 0px;"></span></span><span style="font-size: 11.5pt; font-family: Roboto, sans-serif; color: #333333; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> Estimated delivery within 16-26 business days.</span></span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Desk Accessories</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4537394462775</id>
+      <title>Stand Couple</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>31514716-stand-couple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4537394462775</id>
+      <title>Sit Couple</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>31514716-sit-couple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4592380411959</id>
+    <published>2020-07-31T18:54:40-07:00</published>
+    <updated>2020-07-31T18:54:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/rattan-tricycle-bike-flower-basket"/>
+    <title>Rattan Tricycle Bike Flower Basket Vase</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1377912781.jpg?v=1596155025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            8.99 - 9.99
+            <a href="https://yourlovelydecors.com/products/rattan-tricycle-bike-flower-basket">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Pot Flower Basket Rattan Tricycle Bike Flower Basket Vase Storage Home Decor</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Desk Accessories</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>12</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>1</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>36208335-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>4</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>5</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>6</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>7</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>8</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>9</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>10</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592380411959</id>
+      <title>11</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>36208335-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4592398991415</id>
+    <published>2020-07-30T19:26:06-07:00</published>
+    <updated>2020-07-30T19:26:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/clock-iron-bicycle"/>
+    <title>Creative Clock, Iron Bicycle, Home Room Clock</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-999332022.jpg?v=1596162369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Theme:</strong> Sports</span><br><span><strong>Style:</strong> Pastoral</span><br><span><strong>Material:</strong> Metal</span><br><span><strong>category of the product:</strong> Timer / Timer</span><br><span><strong>package:</strong> Carton packaging</span><br><span><strong>Texture of material:</strong> iron</span><br><span><strong>modelling:</strong> bicycle</span><br><span><strong>style:</strong> pastoral</span><br><span><strong>Pendulum form:</strong> Tabletop</span><br><span><strong>Category:</strong> timepiece</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desk Accessories</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4592398991415</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>27335879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

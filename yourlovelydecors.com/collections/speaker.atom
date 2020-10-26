@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/speaker.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-05-26T08:43:15-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541291233335</id>
+    <published>2020-05-26T08:43:15-07:00</published>
+    <updated>2020-05-26T08:43:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/divoom-espresso-portable-bluetooth-wireless-speaker-with-fm-radio-and-support-32g-micro-tf-card-with-gift-package-for-girl"/>
+    <title>Divoom Espresso Portable Bluetooth Wireless Speaker</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1414979884.jpg?v=1590507798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> Divoom<br><strong>Communication:</strong> Bluetooth<br><strong>Display Screen:</strong> No<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Built-in Microphone:</strong> Yes<br><strong>Channels:</strong> 1<br><strong>Feature:</strong> Phone Function<br><strong>Feature:</strong> Play Video<br><strong>Intelligent Personal Assistant:</strong> NONE<br><strong>Output Power:</strong> 4W<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> Radio<br><strong>Playback Function:</strong> MP3<br><strong>Voice Control:</strong> No<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> No<br><strong>PMPO:</strong> 4W<br><strong>Support APP:</strong> No<br><strong>Model Number:</strong> Divoom Espresso</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 15-35 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541291233335</id>
+      <title>CHINA / White / Speaker</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>35153692-china-white-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541291233335</id>
+      <title>Poland / White / Speaker</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>35153692-poland-white-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541291233335</id>
+      <title>CHINA / Red / Speaker</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>35153692-china-red-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541291233335</id>
+      <title>Poland / Red / Speaker</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>35153692-poland-red-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541291233335</id>
+      <title>CHINA / Black / Speaker</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>35153692-china-black-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541291233335</id>
+      <title>Poland / Black / Speaker</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>35153692-poland-black-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541290315831</id>
+    <published>2020-05-26T08:39:58-07:00</published>
+    <updated>2020-05-26T08:39:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/mini-portable-speaker"/>
+    <title>Mini Portable Speaker Wireless Bluetooth Speakers</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1128925144.jpg?v=1590507602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cabinet Material:</strong> Plastic<br><strong>Battery:</strong> Yes<br><strong>Channels:</strong> 2 (2.0)<br><strong>PMPO:</strong> 300W<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Built-in Microphone:</strong> Yes<br><strong>Support Apt-x:</strong> Yes<br><strong>Remote Control:</strong> No<br><strong>Model Number:</strong> Stereo Fm Radio Portable Speaker Wireless Bluetooth Speakers<br><strong>Playback Function:</strong> Radio<br><strong>Playback Function:</strong> MP3<br><strong>Material:</strong> Plastic<br><strong>Support Memory Card:</strong> Yes<br><strong>Support APP:</strong> Yes<br><strong>Output Power:</strong> 1.5W<br><strong>Frequency Range:</strong> 20Hz-20KHz<br><br><strong></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541290315831</id>
+      <title>CHINA / Pink / 1.5&quot;, 1&quot;, Speaker</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>29609515-china-pink-1-5-1-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541290315831</id>
+      <title>CHINA / Blue / 1.5&quot;, 1&quot;, Speaker</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>29609515-china-blue-1-5-1-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541290315831</id>
+      <title>CHINA / White / 1.5&quot;, 1&quot;, Speaker</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>29609515-china-white-1-5-1-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541290315831</id>
+      <title>CHINA / Random Color / 1.5&quot;, 1&quot;, Speaker</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>29609515-china-random-color-1-5-1-speaker</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541289300023</id>
+    <published>2020-05-26T08:38:01-07:00</published>
+    <updated>2020-05-26T08:38:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/phone-holder-stand-speaker"/>
+    <title>Phone Holder Stand Speaker Retro Photo Frame Gift</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1391712941.jpg?v=1590507486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            14.99 - 25.99
+            <a href="https://yourlovelydecors.com/products/phone-holder-stand-speaker">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Communication:</strong> Bluetooth<br><strong>Display Screen:</strong> Yes<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> DC<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Two-Way<br><strong>Built-in Microphone:</strong> No<br><strong>Channels:</strong> 2 (2.0)<br><strong>Feature:</strong> Play Video<br><strong>Intelligent Personal Assistant:</strong> NONE<br><strong>Output Power:</strong> 3W<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> Radio<br><strong>Playback Function:</strong> MP3<br><strong>Material:</strong> Plastic<br><strong>Display Screen:</strong> Yes<br><strong>Waterproof:</strong> Yes<br><strong>PMPO:</strong> 3W<br><strong>Support APP:</strong> No<br><strong>For IPhone:</strong> For iPhone 11 Pro XS MAX XR X 8 7 6 6s Plus<br><strong>For Huawei:</strong> For Huawei P30 P20 Mate 20 10 Pro Lite<br><strong>For Xiaomi:</strong> For Xiaomi Mi 9 8 SE A2 Mix 3 Redmi Note 7 Pro<br><strong>For Samsung:</strong> For Samsung S10 S9 S8 S7 S6 Egde Plus</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 39-59 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Speaker</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>Russian Federation / Khaki</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>32247951-russian-federation-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>Spain / Khaki</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>32247951-spain-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>CHINA / Khaki</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>32247951-china-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>CHINA / White</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>32247951-china-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>Russian Federation / White</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>32247951-russian-federation-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>United States / Khaki</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>32247951-united-states-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>France / Khaki</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32247951-france-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>France / White</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32247951-france-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>CHINA / Orange</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>32247951-china-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>Spain / White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>32247951-spain-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>United States / White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>32247951-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>United States / Orange</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>32247951-united-states-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>France / Orange</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32247951-france-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>Russian Federation / Orange</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>32247951-russian-federation-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541289300023</id>
+      <title>Spain / Orange</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>32247951-spain-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

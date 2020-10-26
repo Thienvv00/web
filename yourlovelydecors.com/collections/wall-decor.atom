@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/wall-decor.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-08-30T20:39:50-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4604266250295</id>
+    <published>2020-08-30T20:39:50-07:00</published>
+    <updated>2020-08-30T20:39:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/world-map-3d-wall-stickers"/>
+    <title>World map 3D wall stickers</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1309644123.jpg?v=1598845258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            21.99 - 82.99
+            <a href="https://yourlovelydecors.com/products/world-map-3d-wall-stickers">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern:</strong> 3D Sticker<br><strong>Classification:</strong> For Wall<br><strong>Specification:</strong> Multi-piece Package<br><strong>Scenarios:</strong> WALL<br><strong>Material:</strong> Acrylic<br><strong>Theme:</strong> PATTERN<br><strong>World Map:</strong> Acrylic<br><strong>Specification:</strong> Single-piece Package<br><strong>Classification:</strong> Furniture Stickers<br><strong>Product name:</strong> Creative World Map Acrylic Decorative 3D Wall Sticker For Living Room<br><strong>Occasion:</strong> Living room, Hallway, Bedroom, Furniture, etc<br><strong>Quantity:</strong> 1pc<br><strong>Advantage:</strong> Mould proof; Creative; Moistureproof; Waterproof<br><strong>Application:</strong> Wall Decoration; Furniture Decoration</p>
+<p><strong>Estimated delivery time</strong> 16-26 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Livingroom</s:tag>
+    <s:tag>WALL DECOR</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Grey / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-grey-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Grey / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-grey-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Grey / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-grey-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Grey / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-grey-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Grey / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-grey-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Light blue / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-light-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Light blue / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-light-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Light blue / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-light-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Red / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Dark blue / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-dark-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Dark blue / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-dark-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-yellow-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Red / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Red / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Black / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Black / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Black / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Dark blue / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-dark-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Dark blue / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-dark-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Dark blue / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-dark-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Coffee / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-coffee-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Coffee / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-coffee-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Coffee / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-coffee-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Purple / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-purple-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Light blue / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-light-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Light blue / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-light-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Coffee / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-coffee-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Coffee / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-coffee-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Yellow / XXL</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>27746518-yellow-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-yellow-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-yellow-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-yellow-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>27746518-purple-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Purple / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>27746518-purple-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Purple / XL</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>27746518-purple-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4604266250295</id>
+      <title>Purple / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>27746518-purple-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4594930679863</id>
+    <published>2020-08-06T18:49:11-07:00</published>
+    <updated>2020-08-06T18:49:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/diy-wall-clock"/>
+    <title>Diy wall clock</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-877320100.jpg?v=1596764964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            15.99 - 21.99
+            <a href="https://yourlovelydecors.com/products/diy-wall-clock">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Wall Clocks<br><strong>Motivity Type:</strong> QUARTZ<br><strong>Shape:</strong> circular<br><strong>Display Type:</strong> Needle<br><strong>Diameter:</strong> 100cm<br><strong>Wall Clock Type:</strong> 12 mm Sheet<br><strong>Style:</strong> Brief<br><strong>Applicable Placement:</strong> living room<br><strong>Feature:</strong> Antique Style<br><strong>Weight:</strong> 400g<br><strong>Material:</strong> Metal<br><strong>Combination:</strong> Multi-piece set<br><strong>Form:</strong> Single Face<br><strong>Body Material:</strong> Acrylic+Eva<br><strong>is_customized:</strong> Yes<br><strong>Color:</strong> silver black gold pin red and blue white<br><strong>style :</strong> large mirror wall clock<br><strong>meterial:</strong> Metal+Acrylic + Eva</p>
+<p><strong>Estimated delivery time 15-30 days</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Wall decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>White / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-white-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>White / 37inch</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6422144-white-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>White / 47inch</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6422144-white-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Black / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-black-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Black / 37inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6422144-black-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Black / 47inch</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6422144-black-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Red / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-red-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Red / 37inch</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6422144-red-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Red / 47inch</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6422144-red-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Blue / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-blue-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Blue / 37inch</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6422144-blue-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Blue / 47inch</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6422144-blue-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Pink / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-pink-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Pink / 37inch</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6422144-pink-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Pink / 47inch</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6422144-pink-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Silver / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-silver-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Silver / 37inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6422144-silver-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Silver / 47inch</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6422144-silver-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Gold / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-gold-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Gold / 37inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6422144-gold-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Gold / 47inch</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6422144-gold-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Sky Blue / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-sky-blue-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Sky Blue / 37inch</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6422144-sky-blue-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Sky Blue / 47inch</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>6422144-sky-blue-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Chocolate / 27inch</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6422144-chocolate-27inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Chocolate / 37inch</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6422144-chocolate-37inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594930679863</id>
+      <title>Chocolate / 47inch</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6422144-chocolate-47inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4594129272887</id>
+    <published>2020-08-05T02:03:30-07:00</published>
+    <updated>2020-08-05T02:03:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/original-silver-gray-dream-catcher"/>
+    <title>Original silver gray dream catcher</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1428392036.jpg?v=1596618219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            7.99 - 8.99
+            <a href="https://yourlovelydecors.com/products/original-silver-gray-dream-catcher">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Theme:</strong> Love<br><strong>Material:</strong> Wicker<br><strong>Style:</strong> Southeast Asia</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Wall decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZJ</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zj</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>Z</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZA</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-za</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>X</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-x</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>Y</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>V</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-v</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>W</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-w</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-t</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>U</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-u</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZH</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zh</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZI</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30348021-zi</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZF</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zf</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZG</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZD</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZE</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-ze</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZB</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>ZC</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-zc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>J</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>K</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-k</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>H</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>I</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-i</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>F</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>G</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>D</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30348021-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>E</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>R</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-r</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>S</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>P</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>Q</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>N</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-n</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>O</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>L</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>M</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>B</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>C</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30348021-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594129272887</id>
+      <title>A</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30348021-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4537363005495</id>
+    <published>2020-07-31T19:30:46-07:00</published>
+    <updated>2020-07-31T19:30:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/miamor-chakra-muladhar-dreamcatcher-7-rings-colorful-dream-catcher-home-wall-hanging-decor-car-pendant-ornament-gift-amor096"/>
+    <title>7 Rings Colorful Dream Catcher Home Wall Hanging Decor</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1349387671.jpg?v=1590079469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span><strong>Brand Name:</strong> MIAMOR</span><br><span><strong>Theme:</strong> TV &amp; Movie Character</span><br><span><strong>Material:</strong> Organic Material</span><br><span><strong>Style:</strong> Modern</span><br><span><strong>Diameter:</strong> About 7cm</span><br><span><strong>Long:</strong> About 70cm</span><br><span><strong>Material:</strong> Hoop, Line, beads</span></p><p><span id="docs-internal-guid-7f4bf74c-7fff-2f0c-2cf5-129d4b1bc1fc"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:20px;height:21px;"><img src="https://lh3.googleusercontent.com/oOO81ESR2gyYVtCdSwOUeYAcAfJams-gOeuBXgCc__0gRTanS4_OOnXUi4W68ARgA-f4fbucRZY1fjLGQJ4yfYWTMOeys7WvXDIo4gkBqH72anmzSAFJgOzZWciSfygosf6IXCrY" width="20" height="21" style="margin-left:0px;margin-top:0px;"></span></span><span style="font-size: 11.5pt; font-family: Roboto, sans-serif; color: rgb(51, 51, 51); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> Estimated delivery within 15-30 business days.</span></span><span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Wall decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4537363005495</id>
+      <title>A</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>12387380-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4537363005495</id>
+      <title>B</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>12387380-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

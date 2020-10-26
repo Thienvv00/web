@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/animal-clothings.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-09-04T01:31:30-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607285461047</id>
+    <published>2020-09-04T01:31:30-07:00</published>
+    <updated>2020-09-04T01:31:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/wolves-t-shirt"/>
+    <title>Wolves T-shirt</title>
+    <s:type>Clothings</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/soi3.jpg?v=1599208289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Clothings<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gift for friends</span></p>
+<p><span>Free ship</span></p>
+<p><span>If you are in the US, Canada or Europe, you will receive your order within 3-7 business days after printing is complete. For all other countries, please allow between 10-14 business day</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal tshirt</s:tag>
+    <s:tag>Clothings</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607285461047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

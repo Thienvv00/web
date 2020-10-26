@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/eco-products.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-08-05T21:27:26-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4594510299191</id>
+    <published>2020-08-05T21:27:26-07:00</published>
+    <updated>2020-08-05T21:27:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/bamboo-straws"/>
+    <title>Bamboo Straws</title>
+    <s:type>Eco-product</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/bam1.jpg?v=1596688047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Eco-product<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We are manufacturer of bamboo products in VietNam such as: bamboo straws, bamboo cups,…if you are intrested to buy in bulk contact us for best quality and price</span></p>
+<p><span>Mail: henry.duong@qntdata.com</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span>Length 20cm<br>Price of product is price of 1000pcs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bamboo Straw</s:tag>
+    <s:tag>eco-product</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594510299191</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>BBT</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4594504499255</id>
+    <published>2020-08-05T21:11:50-07:00</published>
+    <updated>2020-08-05T21:11:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/bamboo-cups"/>
+    <title>Bamboo Cups</title>
+    <s:type>Eco-product</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/c_c1.jpg?v=1596687109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Eco-product<br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We are manufacturer of bamboo products in VietNam such as: bamboo straws, bamboo cups,…if you are intrested to buy in bulk contact us for best quality and price. </span></p>
+<p><span><span style="font-weight: 400;">Don’t hesitate to contact us with email: henry.duong@qntdata.com</span></span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Price of product is price of 1000 set<br></p>
+<p>Length: 10cm<br>Diameter 7cm-8cm</p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eco-product</s:tag>
+    <s:tag>Wholesale</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4594504499255</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku>BBC</s:sku>
+      <s:grams>200000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4569281364023</id>
+    <published>2020-06-24T18:26:20-07:00</published>
+    <updated>2020-06-24T18:26:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/straw-bamboo-vietnam-drinking-straw"/>
+    <title>Bamboo Straw Vietnam Drinking Straw</title>
+    <s:type>Eco-product</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/53530390_529884510752046_6394085227085430784_n.jpg?v=1594774731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Eco-product<br>
+        <strong>Price: </strong>
+            1.01 - 5.20
+            <a href="https://yourlovelydecors.com/products/straw-bamboo-vietnam-drinking-straw">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name: onghutviet</strong></span><br><span><strong>Material:</strong> BAMBOO</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Model Number:</strong> Bamboo straws</span><br><span><strong>Bar Accessories Type:</strong> Drinking Straws</span><br><span><strong>Type:</strong> Bar Accessories</span></p>
+<p><span>Buy from 100 - 200 products: $5.15; from 201- 400 products: $5.5.</span></p>
+<p> </p>
+<p><span><span>Bamboo Straws 100% natural, no preservatives, no bleaching, can be reused many times.</span></span></p>
+<p><span>Change your habit of using Plastic Straws with Bamboo Straws today to contribute to reducing waste to the environment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bamboo Straw</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4569281364023</id>
+      <title>10</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>36121724-12pcs-straws-1brush</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4569281364023</id>
+      <title>Set 1 straw 1 brush</title>
+      <s:price currency="USD">1.01</s:price>
+      <s:sku>BS01</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4569281364023</id>
+      <title>Set 1 straw 1 brush 1 cloth bag</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>BS02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4568570953783</id>
+    <published>2020-06-24T00:47:36-07:00</published>
+    <updated>2020-06-24T00:47:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/1pc-colorful-stainless-steel-straw-glass-straws-metal-drinking-straws"/>
+    <title>Colorful Stainless Steel Straw Glass Straws Metal Drinking Straws</title>
+    <s:type>Eco-product</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-694863334.jpg?v=1592984862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Eco-product<br>
+        <strong>Price: </strong>
+            1.99 - 2.99
+            <a href="https://yourlovelydecors.com/products/1pc-colorful-stainless-steel-straw-glass-straws-metal-drinking-straws">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Type:</strong> Bar Accessories</span><br><span><strong>Certification:</strong> FDA</span><br><span><strong>Certification:</strong> EEC</span><br><span><strong>Certification:</strong> LFGB</span><br><span><strong>Certification:</strong> CIQ</span><br><span><strong>Certification:</strong> CE / EU</span><br><span><strong>Certification:</strong> SGS</span><br><span><strong>Model Number:</strong> non</span><br><span><strong>Feature:</strong> Stocked</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Metal Type:</strong> STAINLESS STEEL</span><br><span><strong>Bar Accessories Type:</strong> Drinking Straws</span><br><span><strong>Brand Name:</strong> TAROOHOME</span><br><span><strong>Material:</strong> Metal</span><br><span><strong>Quantity:</strong> 1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eco-product</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>1</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16183340-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>2</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>16183340-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>3</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>16183340-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>4</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>16183340-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>5</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>16183340-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>6</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>16183340-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>7</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>16183340-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568570953783</id>
+      <title>8</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>16183340-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4568426577975</id>
+    <published>2020-06-23T19:08:31-07:00</published>
+    <updated>2020-06-23T19:08:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/natural-bamboo-drinking-straw-travelling-set"/>
+    <title>Natural bamboo drinking straw travelling set</title>
+    <s:type>Household</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1374802058.jpg?v=1592964514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Household<br>
+        <strong>Price: </strong>
+            1.99 - 6.99
+            <a href="https://yourlovelydecors.com/products/natural-bamboo-drinking-straw-travelling-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> vbatty</span><br><span><strong>Material:</strong> BAMBOO</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Model Number:</strong> Bamboo straws</span><br><span><strong>Bar Accessories Type:</strong> Drinking Straws</span><br><span><strong>Type:</strong> Bar Accessories</span><br><span><strong>Certification:</strong> CE / EU</span><br><span><strong>Certification:</strong> CIQ</span><br><span><strong>Quantity:</strong> &gt;5</span><br><span><strong>Sku:</strong> 74-1</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bamboo Straw</s:tag>
+    <s:tag>Household</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568426577975</id>
+      <title>1pc straws 1 brush</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>36121724-1pc-straws-1-brush</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568426577975</id>
+      <title>1 set for 3 pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>36121724-1-set-for-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4568426577975</id>
+      <title>12pcs straws 1brush</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>36121724-12pcs-straws-1brush</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

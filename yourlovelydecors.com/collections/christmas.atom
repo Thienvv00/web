@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/christmas.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-10-22T00:16:17-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4626238505015</id>
+    <published>2020-10-22T00:16:17-07:00</published>
+    <updated>2020-10-22T00:16:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-rudolph-forest-old-mandoll-decoration"/>
+    <title>Christmas Rudolph Forest Old ManDoll Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1593584222.jpg?v=1603350981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Luminous:</strong> No<br><strong>is_customized:</strong> Yes<br><strong>Theme Pattern:</strong> Christmas Hat<br><strong>Model Number:</strong> faceless doll christmas ornament</p>
+<p><strong>Estimated time delivery</strong> ~25 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4626238505015</id>
+      <title>A / United States</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>41109180-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4626238505015</id>
+      <title>B / United States</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>41109180-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4626215043127</id>
+    <published>2020-10-22T00:02:40-07:00</published>
+    <updated>2020-10-22T00:02:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/10-pieces-mini-bouquet-christmas-decoration"/>
+    <title>10 Pieces Mini bouquet Christmas decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1592663199.jpg?v=1603350162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Classification:</strong> Artificial Flowers<br><strong>is_customized:</strong> No<br><strong>Type:</strong> Carnation<br><strong>Style:</strong> Flower<br><strong>Flower Style:</strong> Flower Bouquet<br><strong>Material:</strong> Polyester</p>
+<p><strong>Size</strong>: 10 Pieces</p>
+<p><strong>Estimated time delivery</strong> ~25 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4626215043127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>41085598-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625922588727</id>
+    <published>2020-10-21T20:59:28-07:00</published>
+    <updated>2020-10-21T20:59:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/lantern-led-candle-christmas-decorations"/>
+    <title>Lantern Led Candle Christmas Decorations</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1139990020.jpg?v=1603339173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> joy-enlife<br><strong>Model Number:</strong> New<br><strong>Packing:</strong> No Gift Box<br><strong>Estimated time delivery</strong> ~20 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625922588727</id>
+      <title>1pcs Light LED</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>29994969-1pcs-light-led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625922588727</id>
+      <title>1pcs Light LED 1</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>29994969-1pcs-light-led-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625922588727</id>
+      <title>1pcs Light LED 2</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>29994969-1pcs-light-led-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625922588727</id>
+      <title>1pcs Light LED 3</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>29994969-1pcs-light-led-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625922588727</id>
+      <title>1pcs Light LED 4</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>29994969-1pcs-light-led-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625922588727</id>
+      <title>1pcs Light LED 5</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>29994969-1pcs-light-led-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625906532407</id>
+    <published>2020-10-21T20:50:05-07:00</published>
+    <updated>2020-10-21T20:50:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/3d-led-light-for-christmas-decoration"/>
+    <title>3D LED Light for Christmas Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1520806752.jpg?v=1603338608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            1.99 - 2.19
+            <a href="https://yourlovelydecors.com/products/3d-led-light-for-christmas-decoration">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Is Batteries Included:</strong> Yes<br><strong>Body Material:</strong> Plastic<br><strong>Battery Type:</strong> Button Cell<br><strong>Light Source:</strong> LED Bulbs<br><strong>Power Generation:</strong> Switch<br><strong>Is Batteries Required:</strong> Yes<br><strong>Usage:</strong> HOLIDAY<br><strong>Wattage:</strong> 0-5W<br><strong>Estimated time delivery</strong> ~25 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625906532407</id>
+      <title>Christmas Tree / Colorful Flash Light</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>39984287-christmas-tree-colorful-flash-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625906532407</id>
+      <title>Santa Claus / Colorful Flash Light</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>39984287-santa-claus-colorful-flash-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625906532407</id>
+      <title>Eiffel Tower / Colorful Flash Light</title>
+      <s:price currency="USD">2.19</s:price>
+      <s:sku>39984287-eiffel-tower-colorful-flash-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625906532407</id>
+      <title>Apple / Colorful Flash Light</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>39984287-apple-colorful-flash-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625906532407</id>
+      <title>Snowman / Colorful Flash Light</title>
+      <s:price currency="USD">2.19</s:price>
+      <s:sku>39984287-snowman-colorful-flash-light</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625254875191</id>
+    <published>2020-10-21T00:30:29-07:00</published>
+    <updated>2020-10-21T00:30:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/10pcs-cheap-4-5cm-mini-artificial-silk-flower-heads-european-fall-vivid-peony-for-wedding-home-decoration-chrismas-gift-crafts"/>
+    <title>Mini Silk Flower Home Christmas  Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1590412572.jpg?v=1603265442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Color:</strong> white yellow rose pink,purple....</span><br><span><strong>Selection of color:</strong> Can mix 15 colors</span></p>
+<p><strong>10pcs Cheap 4.5cm</strong> <br><span><strong>Size:</strong> about 4.5cm</span><br><span><strong>Brand Name:</strong> Nanairo</span><br><span><strong>Classification:</strong> Artificial Flowers</span><br><span><strong>Type:</strong> Rose</span><br><span><strong>Flower Style:</strong> Flower Head</span><br><span><strong>Style:</strong> Flower</span><br><span><strong>Model Number:</strong> 4.5cm</span><br><span><strong>Material:</strong> Silk</span><br><strong>Estimated delivery time</strong> ~30 days</p>
+<div style="all: unset;" class="eJOY__extension_root_class" id="eJOY__extension_root" data-mce-style="all: unset;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Gradient green</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-gradient-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Tiffany</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-tiffany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Gradient pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-gradient-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Red</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Wine red</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Light champagne</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-light-champagne</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>mix</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-mix</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Deep blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-deep-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Pink</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Blue</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Light purple</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-light-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Deep red</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-deep-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Milk white</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-milk-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Brown</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Orange</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>coffee</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254875191</id>
+      <title>Champange</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>20313802-champange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625254121527</id>
+    <published>2020-10-21T00:13:48-07:00</published>
+    <updated>2020-10-21T00:13:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-lights-5m-10m-20m-30m-50m-100m-led-string-fairy-light-8-modes-christmas-lights-for-wedding-party-holiday-lights"/>
+    <title>Christmas Lights Led String</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1507564345.jpg?v=1603264441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            7.99 - 66.99
+            <a href="https://yourlovelydecors.com/products/christmas-lights-5m-10m-20m-30m-50m-100m-led-string-fairy-light-8-modes-christmas-lights-for-wedding-party-holiday-lights">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> AIFENG</span><br><span><strong>Holiday Name:</strong> Christmas</span><br><span><strong>Body Material:</strong> Plastic</span><br><span><strong>Light Source:</strong> LED Bulbs</span><br><span><strong>Music:</strong> None</span><br><span><strong>Power Source:</strong> AC</span><br><span><strong>Length:</strong> 1000cm</span><br><span><strong>Lighting Distance:</strong> 1-5m</span><br><span><strong>Color:</strong> Clear</span><br><span><strong>Usage:</strong> HOLIDAY</span><br><span><strong>Type:</strong> Led String Light</span><br><span><strong>Item Color:</strong> As pictures show</span><br><span><strong>Item Length:</strong> 5M/10M/20M/30M/50M/100M</span><br><span><strong>Led Quantity:</strong> 40Leds/100Leds/200Leds/400Leds/500Leds</span><br><span><strong>Voltage:</strong> AC 110-130V/AC 220-240V</span><br><span><strong>Plug Type:</strong> US Plug/EU Plug</span><br><span><strong>Wire Color:</strong> Clear</span><br><span><strong>Cable Color:</strong> Clear</span><br><span><strong>8 Function Controller:</strong> 1.Combination;2.In Waves;3.Sequential;4.Slow-glow;5.Chasing/Flash...</span><br></p>
+<div style="all: unset;" class="eJOY__extension_root_class" id="eJOY__extension_root" data-mce-style="all: unset;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas tree</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 5M 40Leds 220V EU</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-blue-5m-40leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 5M 40Leds 110V US</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-blue-5m-40leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 10M 100Leds 220V EU</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-blue-10m-100leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 10M 100Leds 110V US</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-blue-10m-100leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 20M 200Leds 220V EU</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>9494053-blue-20m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 20M 200Leds 110V US</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9494053-blue-20m-200leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 30M 200Leds 220V EU</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>9494053-blue-30m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 50M 300Leds 220V EU</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>9494053-blue-50m-300leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Blue / 100M 500Leds 220V EU</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>9494053-blue-100m-500leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 5M 40Leds 220V EU</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-colorful-5m-40leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 5M 40Leds 110V US</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-colorful-5m-40leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 10M 100Leds 220V EU</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-colorful-10m-100leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 10M 100Leds 110V US</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-colorful-10m-100leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 20M 200Leds 220V EU</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>9494053-colorful-20m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 20M 200Leds 110V US</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9494053-colorful-20m-200leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 30M 200Leds 220V EU</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>9494053-colorful-30m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 50M 300Leds 220V EU</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>9494053-colorful-50m-300leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Colorful / 100M 500Leds 220V EU</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>9494053-colorful-100m-500leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 5M 40Leds 220V EU</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-warm-white-5m-40leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 5M 40Leds 110V US</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-warm-white-5m-40leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 10M 100Leds 220V EU</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-warm-white-10m-100leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 10M 100Leds 110V US</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-warm-white-10m-100leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 20M 200Leds 220V EU</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>9494053-warm-white-20m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 20M 200Leds 110V US</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9494053-warm-white-20m-200leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 30M 200Leds 220V EU</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>9494053-warm-white-30m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 50M 300Leds 220V EU</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>9494053-warm-white-50m-300leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Warm White / 100M 500Leds 220V EU</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>9494053-warm-white-100m-500leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 5M 40Leds 220V EU</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-cool-white-5m-40leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 5M 40Leds 110V US</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9494053-cool-white-5m-40leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 10M 100Leds 220V EU</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-cool-white-10m-100leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 10M 100Leds 110V US</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9494053-cool-white-10m-100leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 20M 200Leds 220V EU</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>9494053-cool-white-20m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 20M 200Leds 110V US</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9494053-cool-white-20m-200leds-110v-us</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 30M 200Leds 220V EU</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>9494053-cool-white-30m-200leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 50M 300Leds 220V EU</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>9494053-cool-white-50m-300leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625254121527</id>
+      <title>Cool White / 100M 500Leds 220V EU</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku>9494053-cool-white-100m-500leds-220v-eu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625252909111</id>
+    <published>2020-10-20T23:55:23-07:00</published>
+    <updated>2020-10-20T23:55:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/artificial-lemon-5cm-foam-fruits-for-wedding-party-decoration-diy-scrapbooking-craft-simulation-fruits-chrismas-gift"/>
+    <title>Foam Fruits For Christmas Party Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1320864128.jpg?v=1603263326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> Nanairo<br><strong>Fruit Type:</strong> LEMON<br><strong>Material:</strong> PE<br><strong>Number of Pcs:</strong> 10pcs</p>
+<p><strong>Size</strong> 5cm</p>
+<p><strong>Estimated delivery time:  </strong>~30 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Homedecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625252909111</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>34865436-lemon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625252286519</id>
+    <published>2020-10-20T23:45:41-07:00</published>
+    <updated>2020-10-20T23:45:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/hpny-2021-merry-christmas-decoration"/>
+    <title>HPNY 2021 &amp; Merry Christmas Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1505820779.jpg?v=1603262746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Product Name:</strong> 2020 Christmas Pendants Ornaments<br><strong>Quantity:</strong> 1Pcs/lot<br><strong>Color:</strong> White/Red<br><strong>Material:</strong> Wood<br><strong>Size:</strong> as the picture<br><strong>Quality:</strong> Top High Quality<br><strong>Condition:</strong> 100% Brand News<br><strong>Use for:</strong> DIY Handmade Gift Xmas Decoration Pendants Ornaments Supplies<br><strong>Occasion:</strong> Christmas Party /New Year/Home Wall Window Decorations</p>
+<p><strong>Free Shipping fees </strong></p>
+<p><strong>Estimated delivery time</strong> ~30 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>newyeardecor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625252286519</id>
+      <title>02</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku>30210465-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625252286519</id>
+      <title>sl00403</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku>30210465-sl00403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625252286519</id>
+      <title>sl00401</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku>30210465-sl00401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625252286519</id>
+      <title>sl00402</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku>30210465-sl00402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625251401783</id>
+    <published>2020-10-20T23:31:22-07:00</published>
+    <updated>2020-10-20T23:31:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/nutcracker-puppet-christmas-decoration"/>
+    <title>Nutcracker Puppet Christmas Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1498791665.jpg?v=1603261886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            0.99 - 2.19
+            <a href="https://yourlovelydecors.com/products/nutcracker-puppet-christmas-decoration">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> BIGHSM<br><strong>Theme:</strong> people<br><strong>Style:</strong> Folk Art<br><strong>Material:</strong> Organic Material</p>
+<p><strong>Size</strong>: 12cm</p>
+<p><strong>Estimated delivery time </strong>~30 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture 7</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>39342802-as-picture-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture 6</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>39342802-as-picture-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture 5</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>39342802-as-picture-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture 4</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>39342802-as-picture-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture 3</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>39342802-as-picture-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture 2</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>39342802-as-picture-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625251401783</id>
+      <title>AS Picture</title>
+      <s:price currency="USD">2.19</s:price>
+      <s:sku>39342802-as-picture</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4625232560183</id>
+    <published>2020-10-20T20:11:36-07:00</published>
+    <updated>2020-10-20T20:11:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/300pcs-lot-snowflake-chrismas-decoration-craft"/>
+    <title>300Pcs/Lot Snowflake Chrismas Decoration Craft</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1592618191.jpg?v=1603249901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Artificial Snow Type:</strong> Snowflake<br><strong>Name:</strong> artificial snowflake for diy<br><strong>Color:</strong> white<br><strong>Combination:</strong> 1.5 cm and 2cm 1 lot (300 pcs ),3cm:1 lot(200 pcs)<br><strong>Festivals:</strong> Wedding, Valentine's day, Chrismas, New Year, Hallowen, Party supplies<br><strong>Use For:</strong> DIY wedding/party/home/hotel/Christmas/Table Decoration Accessories<br><strong>Applicable Scene:</strong> Wedding Wall Decorations, Move Gifts, Family Decorations<br><strong>Craft:</strong> Handmake Crafts Accessory<br><strong>Material:</strong> foam</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625232560183</id>
+      <title>white / 1.5cm</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>41084502-white-1-5cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625232560183</id>
+      <title>white / 2cm</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>41084502-white-2cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4625232560183</id>
+      <title>white / 3cm</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>41084502-white-3cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624933257271</id>
+    <published>2020-10-20T01:57:57-07:00</published>
+    <updated>2020-10-20T01:57:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/toys-ball-decor-christmas-xmas-tree"/>
+    <title>Toys Ball Decor Christmas Xmas Tree</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1567736002.jpg?v=1603184280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            3.99 - 7.99
+            <a href="https://yourlovelydecors.com/products/toys-ball-decor-christmas-xmas-tree">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Christmas Tree Descoration Pendant Ornament Hanging0 Pendant</strong><br><br><strong>type1:</strong> Colorful Xmas Decoration Deer<br><strong>type2:</strong> Fashion Style Decor<br><strong>type3:</strong> Xmas Unique Ornament Snowman<br><strong>type4:</strong> Xmas tree Pendant Santa Claus<br><strong>type5:</strong> Special Keepsake<br><strong>type6:</strong> Christmas Festival Ornament<br><strong>type7:</strong> Hanging Ornament<br><strong>type8:</strong> Dinner Table Decoration</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624933257271</id>
+      <title>RD / United States</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40743609-rd-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624933257271</id>
+      <title>RD / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>40743609-rd-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624933257271</id>
+      <title>SL / United States</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40743609-sl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624933257271</id>
+      <title>SL / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>40743609-sl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624933257271</id>
+      <title>GD / United States</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40743609-gd-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624933257271</id>
+      <title>GD / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>40743609-gd-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624931881015</id>
+    <published>2020-10-20T01:54:11-07:00</published>
+    <updated>2020-10-20T01:54:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/metallic-balls-decor-christmas-tree"/>
+    <title>Metallic  Balls Decor Christmas Tree</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1152142102.jpg?v=1603184056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            6.99 - 7.99
+            <a href="https://yourlovelydecors.com/products/metallic-balls-decor-christmas-tree">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Christmas Tree Balls</strong></p>
+<p><br><strong>Size:</strong> 3cm<br><strong>Quantity:</strong> 24pcs<br><strong>Material:</strong> Plastic,Electroplate<br><strong>Color:</strong> Gold,Silver,Red,Champagne,Purple,Pink,Green,<br><strong>Occasion 1:</strong> Christmas Balls Christmas Decoration<br><strong>Occasion 2:</strong> Christmas Tree Decorations Balls<br><strong>Occasion 3:</strong> Christmas Balls Plastic<br><strong>Occasion 4:</strong> Christmas Decoration for Home<br><strong>Occasion 5:</strong> Home Decoration for Christmas<br><strong>Occasion 6:</strong> Christmas Accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 17</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 16</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 10</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 15</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 14</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 8</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 9</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 20</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 19</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 18</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 4</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 5</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 2</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 3</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 13</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>30423377-xmas-balls-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 12</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624931881015</id>
+      <title>Xmas Balls 11</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>30423377-xmas-balls-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624930242615</id>
+    <published>2020-10-20T01:49:53-07:00</published>
+    <updated>2020-10-20T01:49:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-banner-decoration-for-home"/>
+    <title>Christmas Banner  Decoration for Home</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1497729363_452c439e-2faa-46b3-9a5e-7fb95becb50b.jpg?v=1603184053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            2.99 - 6.99
+            <a href="https://yourlovelydecors.com/products/christmas-banner-decoration-for-home">(44 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Santa Claus Banner </strong></p>
+<p>Classification: Christmas Banners</p>
+<p>Size: 3m</p>
+<p>Quantitiy: 1set</p>
+<p>Material: Paper</p>
+<p>Pettern: Santa Claus, Christmas Deer, Christmas Bell, Christmas Tree, Snowman</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner 1</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-banner-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner 3</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-banner-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner 4</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-banner-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style 4</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style 5</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style 6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style 7</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-banner</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-23</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-80-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-24</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-80-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-18</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-80-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-20</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-80-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-22</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-80-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-02</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-80-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-04</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>11411329-80-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>2M colorful</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-2m-colorful</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>5M colorful</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>11411329-5m-colorful</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>2M white</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-2m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>5M white</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>11411329-5m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner  6</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-banner-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Christmas Angel 1</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-christmas-angel-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Christmas Angel 3</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-christmas-angel-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Wine bottle cover 1</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-wine-bottle-cover-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Wine bottle cover 2</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-wine-bottle-cover-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Wine bottle cover 4</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-wine-bottle-cover-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Wine bottle cover 3</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-wine-bottle-cover-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Wine bottle cover 5</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-wine-bottle-cover-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style 3</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Christmas Angel 4</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-christmas-angel-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style 1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>Christmas Angel 2</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-christmas-angel-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner 2</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>11411329-banner-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>2m 20led</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>11411329-2m-20led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>5m  50led</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-5m-50led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-06</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-80-06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>80-26</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-80-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>1.2m 10led clip</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-1-2m-10led-clip</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>5M warm white</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>11411329-5m-warm-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>2M warm white</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>11411329-2m-warm-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner  3</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-banner-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner  2</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-banner-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner  1</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-banner-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>banner  4</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-banner-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624930242615</id>
+      <title>flag style  2</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>11411329-flag-style-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624927424567</id>
+    <published>2020-10-20T01:42:43-07:00</published>
+    <updated>2020-10-20T01:42:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-wreath-with-powered-string"/>
+    <title>Christmas Wreath With  Powered String</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Your Lovely Decors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1592046172.jpg?v=1603183366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Your Lovely Decors<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            12.99 - 21.99
+            <a href="https://yourlovelydecors.com/products/christmas-wreath-with-powered-string">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Wreath with light strings </strong></div>
+<div> </div>
+<div><span data-spm-anchor-id="a2g0o.detail.1000023.i0.e34f52b9CkpGXr">Product Name: Christmas Wreath</span></div>
+<div> </div>
+<div>Size: 20cm/30cm/40cm</div>
+<div> </div>
+<div>Material: PVC</div>
+<div> </div>
+<div>Scope of application: hanging garlands, Christmas decorations</div>
+<div>
+<span data-spm-anchor-id="a2g0o.detail.1000023.i1.47fb4d2595b9kZ">Three Sizes Are Optional: 20cm, 30cm, 40cm.</span><br>LED light string light up the wreath in the dark. Powered by 2 x AA Batteries(Not Included), which frees it from bonds of messy cables, and allows you to replace the power supply quickly during unexpected electricity failure.<br>Designed with lifelike greeneries and various decorations including artificial pine cones and glittering Christmas ball to fit all-season, especially Christmas decoration.<br>Hang it above your fireplace, place it on your front door, or on a living room wall. This wreath will bring an enjoyable ambiance all year round.<br>Set off the festive atmosphere and let your decor stand out from the neighbors.</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624927424567</id>
+      <title>Gold / 40cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41069963-gold-40cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624927424567</id>
+      <title>Gold / 30cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41069963-gold-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624927424567</id>
+      <title>Gold / 20cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41069963-gold-20cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624923000887</id>
+    <published>2020-10-20T01:30:17-07:00</published>
+    <updated>2020-10-20T01:30:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-wreath-home-decoration"/>
+    <title>Christmas Wreath Home Decoration</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1592041198.jpg?v=1603182621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Doll Simulation Rattan Wreath</strong></p>
+<p><br><strong>Material:</strong> Cloth And Rattan<br><strong>Weight:</strong> 260g<br><strong>Use:</strong> DIY House/Carnival Night/Christmas<br><strong>Package:</strong> OPP Bag<br><strong>Size:</strong> 30cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624923000887</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41069839-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624921526327</id>
+    <published>2020-10-20T01:26:01-07:00</published>
+    <updated>2020-10-20T01:26:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-doll-wreath"/>
+    <title>Christmas Doll Wreath</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1516195668.jpg?v=1603182364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="product-title-text" data-spm-anchor-id="a2g0o.detail.1000016.i2.359a3fdaWV7XPJ"><strong>Christmas Wreath Pendants</strong></p>
+<p><strong data-spm-anchor-id="a2g0o.detail.1000023.i1.359a3fdaWV7XPJ">Product Description:</strong><br>Main Material:Non-Woven Fabric, Wood<br>Occasion:Christmas, New Year, Party<br>Number of Pcs:1PC<br>Size:21 x 21cm / 8.26" x 8.26"<br>Color:Gray, Green, Red<br><br><strong>Features:</strong><br>Features plush gnome doll on a sturdy rattan base, decor with artificial pine leaves and red pom berries.<br>Carefully tailored craft, create a strong Christmas sense. They would be a perfect addition to the Christmas holiday.<br>Wreath Size: 21 x 21cm / 8.26" x 8.26". Bundling with burlap string, the wreath will not fall apart easily.<br>Top with burlap string for easy hanging, place this Christmas wreath on your front door to greet guests, or simply hang it inside over a sofa or fireplace to help add a special touch to your holiday decor.<br>The hanging wreath ornament is an ideal gift for family or friends at Christmas, Thanksgiving, birthday, etc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624921526327</id>
+      <title>Christmas Wreath 3</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39848114-christmas-wreath-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624921526327</id>
+      <title>Christmas Wreath 2</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39848114-christmas-wreath-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624915791927</id>
+    <published>2020-10-20T01:09:15-07:00</published>
+    <updated>2020-10-20T01:09:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-projection-lamp"/>
+    <title>Christmas Projection Lamp</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1592025874.jpg?v=1603181358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Christmas decor lamp</strong></p>
+<p><strong>Brand Name:</strong> Wayfun<br><strong>Model Number:</strong> XS0001<br><strong>Packing:</strong> Gift box<br><strong>Set Type:</strong> yes<br><strong>is_customized:</strong> Yes<br><strong>Type of Wholesale:</strong> no</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624915791927</id>
+      <title>Projection Lamp 1</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41069459-projection-lamp-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624915791927</id>
+      <title>Projection Lamp 2</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41069459-projection-lamp-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624908484663</id>
+    <published>2020-10-20T00:41:55-07:00</published>
+    <updated>2020-10-20T00:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-rudolph-doll-pendant"/>
+    <title>Christmas Rudolph Doll Pendant</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1591894505.jpg?v=1603179719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            9.99 - 17.99
+            <a href="https://yourlovelydecors.com/products/christmas-rudolph-doll-pendant">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Origin:</strong> CN(Origin)<br><strong>Model Number:</strong> XS0015<br><strong>Packing:</strong> No Gift Box<br><strong>Set Type:</strong> no<br><strong>is_customized:</strong> Yes<br><strong>Type of Wholesale:</strong> no<br><strong>Occasion 1:</strong> Happy New Year 2021<br><strong>Occasion 2:</strong> Chritmas decor<br><strong>Occasion 3:</strong> Cristmas decor<br><strong>Occasion 4:</strong> Natal<br><strong>Occasion 5:</strong> Noel<br><strong>Occasion 6:</strong> Kerst<br><strong>Occasion 7:</strong> Christmas table decor</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 1</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41066559-christmas-doll-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 3</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41066559-christmas-doll-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 2</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41066559-christmas-doll-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 5</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41066559-christmas-doll-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 4</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41066559-christmas-doll-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 6</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41066559-christmas-doll-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 8</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41066559-christmas-doll-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 9</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41066559-christmas-doll-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 14</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41066559-christmas-doll-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 10</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41066559-christmas-doll-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 11</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41066559-christmas-doll-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 12</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41066559-christmas-doll-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 19</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41066559-christmas-doll-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624908484663</id>
+      <title>Christmas Doll 20</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41066559-christmas-doll-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624907927607</id>
+    <published>2020-10-20T00:32:51-07:00</published>
+    <updated>2020-10-20T00:32:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/white-gold-mixed-balls-for-tree"/>
+    <title>White Gold Mixed Balls for tree</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1542416693.jpg?v=1603179174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Origin:</strong> CN(Origin)</span><br><span><strong>Model Number:</strong> as show</span><br><span><strong>Set Type:</strong> yes</span><br><span><strong>Type of Wholesale:</strong> no</span><br><span><strong>Number of Pcs:</strong> as received</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas tree</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907927607</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>40458088-6cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624907534391</id>
+    <published>2020-10-20T00:27:10-07:00</published>
+    <updated>2020-10-20T00:27:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/stretch-doll-snowman-santa-claus"/>
+    <title>Stretch Doll Snowman Santa Claus</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1590681224.jpg?v=1603178833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Santa Claus Ornament Doll</strong></p>
+<p>Christmas decorations, holiday mall decorations, rich colors can enhance the Christmas atmosphere, and have a different kind of Christmas<br><strong>Origin:</strong> CN(Origin)<br><strong>Model Number:</strong> xs0033<br><strong>Packing:</strong> No Gift Box<br><strong>Set Type:</strong> no<br><strong>Type of Wholesale:</strong> no<br><strong>Material:</strong> cloth<br><strong>dropshipping wholesale acceptable:</strong> yes</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907534391</id>
+      <title>Snowman</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41045610-snowman</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907534391</id>
+      <title>Elk</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41045610-elk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907534391</id>
+      <title>Santa Claus</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41045610-santa-claus</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624907206711</id>
+    <published>2020-10-20T00:22:26-07:00</published>
+    <updated>2020-10-20T00:22:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/artificial-christmas-flowers"/>
+    <title>Artificial Christmas Flowers</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1592011221.jpg?v=1603178554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            6.99 - 9.99
+            <a href="https://yourlovelydecors.com/products/artificial-christmas-flowers">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p class="product-title-text" data-spm-anchor-id="a2g0o.detail.1000016.i3.537b59e72ngYrr"><strong>Fake Flower Merry Christmas Tree</strong></p>
+<p><strong>Model Number:</strong> 0170<br><strong>Packing:</strong> No Gift Box<br><strong>Set Type:</strong> yes<br><strong>is_customized:</strong> Yes<br><strong>Type of Wholesale:</strong> Yes(&gt;50 Pcs)<br><strong>Style:</strong> Glliter poinsettia fake flower<br><strong>Quantity:</strong> 6pcs<br><strong>Use:</strong> Christmas tree ornaments</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Christmas tree</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm bronze / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-bronze-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm champagne / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-champagne-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm bronze / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-bronze-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm pink / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-pink-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm silver / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-silver-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm champagne / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-champagne-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm pink / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-pink-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm gold / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-gold-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm white / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-white-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm silver / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-silver-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm gold / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-gold-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm red / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-red-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm white / 12pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>41069116-11cm-white-12pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624907206711</id>
+      <title>11cm red / 6pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>41069116-11cm-red-6pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624888987703</id>
+    <published>2020-10-19T21:28:35-07:00</published>
+    <updated>2020-10-19T21:28:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/christmas-tree-xmas"/>
+    <title>Christmas Tree Xmas</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1521233252.jpg?v=1603168120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            11.99 - 17.99
+            <a href="https://yourlovelydecors.com/products/christmas-tree-xmas">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Artificial Mini Christmas Pine Tree with Multicolor LED Lights &amp; Ornaments Miniature Pine Trees Sisal Trees with Stand Perfect for Your Home or Office</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624888987703</id>
+      <title>Tree With Led string / 30cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>39995406-tree-with-led-string-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624888987703</id>
+      <title>Tree With Led string / 45cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39995406-tree-with-led-string-45cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624888987703</id>
+      <title>Tree no Light / 45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>39995406-tree-no-light-45cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624888987703</id>
+      <title>Tree no Light / 60cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>39995406-tree-no-light-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624888987703</id>
+      <title>Tree With Led string / 60cm</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39995406-tree-with-led-string-60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624888987703</id>
+      <title>Tree no Light / 30cm</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>39995406-tree-no-light-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4624851828791</id>
+    <published>2020-10-19T20:07:45-07:00</published>
+    <updated>2020-10-19T20:07:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/snowflake-santa-claus-led-garland-string-lights"/>
+    <title>Snowflake Santa Claus Garland String Lights</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1586307974.jpg?v=1603163269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Christmas String Lights  </b></p>
+<p><br><strong>Origin:</strong> CN(Origin)<br><strong>Model Number:</strong> New<br><strong>Packing:</strong> No Gift Box<br><br><strong>Usage 1:</strong> natal<br><strong>Usage 2:</strong> christmas gift<br><strong>Usage 3:</strong> christmas decor<br><strong>Usage 4:</strong> natale 2020<br><strong>Usage 5:</strong> christmas goods<br><strong>Usage 6:</strong> new Year decoration<br><strong>Usage 7:</strong> christmas tree decorations<br><strong>Usage 8:</strong> new year 2021<br><strong>Usage 9:</strong> christmas decorations<br><strong>Usage 10:</strong> cristmas decoration<br><strong>Usage 11:</strong> decoration navidad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624851828791</id>
+      <title>2M 20LED 5</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40935762-2m-20led-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624851828791</id>
+      <title>2M 20LED 6</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40935762-2m-20led-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624851828791</id>
+      <title>2M 20LED</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40935762-2m-20led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624851828791</id>
+      <title>2M 20LED 2</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40935762-2m-20led-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624851828791</id>
+      <title>2M 20LED 3</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40935762-2m-20led-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4624851828791</id>
+      <title>2M 20LED 4</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>40935762-2m-20led-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4613916229687</id>
+    <published>2020-09-22T03:02:20-07:00</published>
+    <updated>2020-09-22T03:02:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/fengrise-christmas"/>
+    <title>FENGRISE Christmas</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1503593389.jpg?v=1600768947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            7.99 - 14.99
+            <a href="https://yourlovelydecors.com/products/fengrise-christmas">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> FENGRISE</span><br><span><strong>Origin:</strong> CN(Origin)</span><br><span><strong>Model Number:</strong> XS0015</span><br><span><strong>Packing:</strong> No Gift Box</span><br><span><strong>Set Type:</strong> no</span><br><span><strong>is_customized:</strong> Yes</span><br><span><strong>Type of Wholesale:</strong> no</span><br><span><strong>material:</strong> cloth</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>2</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>1</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>6</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>5</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>4</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>3</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>12</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>39480322-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>13</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>39480322-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>10</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>39480322-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>11</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>39480322-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>16</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>17</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>39480322-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>14</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>39480322-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>15</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>39480322-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>8</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>39480322-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>9</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>39480322-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4613916229687</id>
+      <title>7</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>39480322-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

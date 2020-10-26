@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/mugs.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-08-20T21:36:07-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4600229036087</id>
+    <published>2020-08-20T21:36:07-07:00</published>
+    <updated>2020-08-20T21:36:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/creative-12-constellations-ceramic-mugs"/>
+    <title>Creative 12 Constellations Ceramic Mugs</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1453119925.jpg?v=1597984581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ceramic travel mug cool mugs</strong></p>
+<p><strong>Material:</strong> ceramic<br><strong>Ceramic Type:</strong> Porcelain<br><strong>Type:</strong> Coffee Mugs<br><strong>Style:</strong> Personality<br><strong>Accessories:</strong> With Spoon<br><strong>Shape:</strong> With Lid<br><strong>Specification:</strong> 1<br><strong>Certification:</strong> CE / EU<br><strong>Certification:</strong> CIQ<br><strong>Certification:</strong> FDA<br><strong>Drinkware Type:</strong> Mugs<br><strong>Model Number:</strong> CP837821<br><strong>Feature:</strong> Eco-Friendly<br><strong>Capacity:</strong> 450ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 1</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 2</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 3</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 4</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 6</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 7</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 8</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 9</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 10</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 11</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>Black 12</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-black-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 1</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 2</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 3</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 4</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 5</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 6</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 7</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 8</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 9</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 10</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 11</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600229036087</id>
+      <title>White 12</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>38136482-white-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4593748508727</id>
+    <published>2020-08-03T18:34:54-07:00</published>
+    <updated>2020-08-03T18:34:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/van-gogh-art-painting-coffee-mugs-the-starry-night-sunflowers-the-sower-irises-saint-remy-coffee-tea-cups"/>
+    <title>Van Gogh Art Painting Coffee Mugs</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1368720065.jpg?v=1596504899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            19.99 - 120.95
+            <a href="https://yourlovelydecors.com/products/van-gogh-art-painting-coffee-mugs-the-starry-night-sunflowers-the-sower-irises-saint-remy-coffee-tea-cups">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Brand Name:</strong> MOSHENG</span><br><span><strong>Material:</strong> Bone China</span><br><span><strong>Type:</strong> Coffee Mugs</span><br><span><strong>Style:</strong> New Classical/Post-modern</span><br><span><strong>Accessories:</strong> With All</span><br><span><strong>Shape:</strong> Handgrip</span><br><span><strong>Specification:</strong> 1</span><br><span><strong>Certification:</strong> CE / EU</span><br><span><strong>Certification:</strong> CIQ</span><br><span><strong>Drinkware Type:</strong> Mugs</span><br><span><strong>Feature:</strong> Eco-Friendly</span><br><span><strong>Feature:</strong> Stocked</span><br><span><strong>Capacity:</strong> 200ml</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Type B</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35967785-type-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Type A</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35967785-type-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Type D</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35967785-type-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Type C</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35967785-type-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Type F</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35967785-type-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Type E</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35967785-type-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4593748508727</id>
+      <title>Set 6</title>
+      <s:price currency="USD">120.95</s:price>
+      <s:sku>VGS6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543512117303</id>
+    <published>2020-05-28T22:52:36-07:00</published>
+    <updated>2020-05-28T22:52:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/1pcs-double-wall-glass-cup-beer-coffee-heart-cups-heat-resistant-healthy-drink-mug-tea-mugs-transparent-drinkware-dropshipping"/>
+    <title>Double Wall Glass Cup Beer Coffee Heart Cups Tea Mugs</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1302134579.jpg?v=1596246566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            5.99 - 15.99
+            <a href="https://yourlovelydecors.com/products/1pcs-double-wall-glass-cup-beer-coffee-heart-cups-heat-resistant-healthy-drink-mug-tea-mugs-transparent-drinkware-dropshipping">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Glass<br><strong>Glass Type:</strong> Transparent<br><strong>Shape:</strong> ROUND<br><strong>Drinkware Type:</strong> Glass<br><strong>Model Number:</strong> Beer Coffee Cup<br><strong>Certification:</strong> CE / EU<br><strong>Certification:</strong> SGS<br><strong>Certification:</strong> CIQ<br><strong>Certification:</strong> EEC<br><strong>Certification:</strong> FDA<br><strong>Certification:</strong> LFGB<br><strong>Quantity:</strong> 1<br><strong>Feature:</strong> Stocked<br><strong>Feature:</strong> Eco-Friendly<br><strong>Item:</strong> Cups And Mugs<br><strong>Type:</strong> Travel Cup Mug<br><strong>Usage:</strong> Coffee Cup<br><strong>Ideal For:</strong> Tea Mug<br><strong>Function:</strong> Glass Cup</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 39-59 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>D 240ML</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>30345005-d-240ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>A 80ML</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>30345005-a-80ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>A 250ML</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>30345005-a-250ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>A 350ML</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30345005-a-350ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>A 450ML</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30345005-a-450ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>B 150ML</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>30345005-b-150ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>B 250ML</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30345005-b-250ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>B 350ML</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30345005-b-350ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>C 300ML</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>30345005-c-300ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543512117303</id>
+      <title>D 180ML</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>30345005-d-180ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543511429175</id>
+    <published>2020-05-28T22:51:05-07:00</published>
+    <updated>2020-05-28T22:51:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/beauty-and-novelty-enamel-coffee-cup"/>
+    <title>Beauty And Novelty Enamel Coffee Cups</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1319099534.jpg?v=1590731468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            17.99 - 40.99
+            <a href="https://yourlovelydecors.com/products/beauty-and-novelty-enamel-coffee-cup">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> ROUND<br><strong>Quantity:</strong> 1<br><strong>Material:</strong> Glass<br><strong>Glass Type:</strong> Transparent<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Model Number:</strong> Glass<br><strong>Shape:</strong> Handgrip<br><strong>Accessory:</strong> With Spoon<br><strong>Style:</strong> Europe</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>S</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>29512990-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>D</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>29512990-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>A</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>29512990-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>F</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>29512990-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>G</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>29512990-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>H</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>29512990-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543511429175</id>
+      <title>J</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>29512990-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4543509921847</id>
+    <published>2020-05-28T22:48:53-07:00</published>
+    <updated>2020-05-28T22:48:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/creative-glass-coffee-milk-mug"/>
+    <title>Creative Glass Coffee Milk Mug</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1141158783.jpg?v=1590731336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            10.99 - 11.99
+            <a href="https://yourlovelydecors.com/products/creative-glass-coffee-milk-mug">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span data-spm-anchor-id="a2g0o.detail.1000023.i2.7e8d62b4bx1O3B"><strong>Material:</strong> Healthy Glass, suit for hot/cold drinks.</span></div>
+<div>
+<strong>Capacity</strong>:450ml</div>
+<div>
+<strong>Size:</strong> 10.5*8.5cm</div>
+<div>
+<strong>Please note</strong>: Can't put in the dishwasher.</div>
+<div data-spm-anchor-id="a2g0o.detail.1000023.i0.7e8d62b4bx1O3B">
+<strong>Product include</strong>:1 x Glass Mug</div>
+<p><span style="font-weight: 400;"> Estimated delivery within 16-26 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543509921847</id>
+      <title>Style B / 450ml</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>30036205-style-b-450ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543509921847</id>
+      <title>Style A / 450ml</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>30036205-style-a-450ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543509921847</id>
+      <title>Style C / 450ml</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>30036205-style-c-450ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543509921847</id>
+      <title>Style E / 450ml</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>30036205-style-e-450ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4543509921847</id>
+      <title>Style D / 450ml</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>30036205-style-d-450ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541315350583</id>
+    <published>2020-05-26T09:45:13-07:00</published>
+    <updated>2020-05-26T09:45:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/strawberry-coffee-cup"/>
+    <title>Travel Glass Nordic Tea Cups and Mugs</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1418587145.jpg?v=1596246750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            21.99 - 32.99
+            <a href="https://yourlovelydecors.com/products/strawberry-coffee-cup">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> OLOEY<br><strong>Material:</strong> Glass<br><strong>Type:</strong> Milk Mugs<br><strong>Style:</strong> Japan Style<br><strong>Accessories:</strong> With None<br><strong>Shape:</strong> cute<br><strong>Specification:</strong> 1<br><strong>Certification:</strong> CIQ<br><strong>Model Number:</strong> Cute Strawberry Coffee Cup Travel Glass Nordic Tea Cups and Mugs Coffe<br><strong>Feature:</strong> Eco-Friendly<br><strong>style:</strong> Nordic style<br><strong>Shape:</strong> Round<br><strong>place of production:</strong> China<br><strong>Popular elements:</strong> Xiao Xin Qing<br><strong>Color classification:</strong> Strawberry cherry<br><strong>Item number:</strong> Strawberry Cup<br><strong>Source of main map:</strong> Self-determined real shot<br><strong>numbe:</strong> 1<br><strong>Suitable scenarios:</strong> Daily gift giving<br><strong>Color of glass:</strong> printing<br><strong>Intended for:</strong> the masses</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>PURPLE</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>37238992-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>2pice 2</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37238992-2pice-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>2pice</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37238992-2pice</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>Green</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>37238992-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>Red</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>37238992-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>2pice 3</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37238992-2pice-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541315350583</id>
+      <title>Black</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>37238992-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541313548343</id>
+    <published>2020-05-26T09:41:50-07:00</published>
+    <updated>2020-05-26T09:41:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/colored-enamel-glass-coffee-mugs"/>
+    <title>Colored enamel glass coffee mugs</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1106475097.jpg?v=1590511318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            23.99 - 34.99
+            <a href="https://yourlovelydecors.com/products/colored-enamel-glass-coffee-mugs">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> CRYSTAL<br><strong>Type:</strong> Tea Mugs<br><strong>Style:</strong> Europe<br><strong>Accessories:</strong> With Spoon<br><strong>Shape:</strong> Handgrip<br><strong>Specification:</strong> 1<br><strong>Certification:</strong> CE / EU<br><strong>Certification:</strong> FDA<br><strong>Certification:</strong> SGS<br><strong>Drinkware Type:</strong> Mugs<br><strong>Model Number:</strong> coffee mug<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Crystal glass<br><strong>Capacity:</strong> 301-400ml<br><strong>Style:</strong> European style<br><strong>size:</strong> short 13x9cm;12x12cm<br><strong>package:</strong> safe box<br><strong>suit:</strong> coffee,tea,water...</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 15-30 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>CHINA / 2</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>28830286-china-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>Russian Federation / 2</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>28830286-russian-federation-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>CHINA / 3</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>28830286-china-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>Russian Federation / 3</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>28830286-russian-federation-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>CHINA / HGZA</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28830286-china-hgza</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>Russian Federation / HGZA</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28830286-russian-federation-hgza</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>CHINA / HGZG</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28830286-china-hgzg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>Russian Federation / HGZG</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28830286-russian-federation-hgzg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>CHINA / 1</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>28830286-china-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>Russian Federation / 1</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>28830286-russian-federation-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>CHINA / 4</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>28830286-china-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541313548343</id>
+      <title>Russian Federation / 4</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>28830286-russian-federation-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541312041015</id>
+    <published>2020-05-26T09:40:05-07:00</published>
+    <updated>2020-05-26T09:40:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/hawaii-mugs-cocktail-cup-beer-beverage-mug-skull-mug-ceramic"/>
+    <title>Hawaii Mugs Cocktail Cup Beer Beverage Mug SKULL Mug Ceramic</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1096138076.jpg?v=1590511210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            26.99 - 31.99
+            <a href="https://yourlovelydecors.com/products/hawaii-mugs-cocktail-cup-beer-beverage-mug-skull-mug-ceramic">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brand Name:</strong> LanBeiJia<br><strong>Material:</strong> ceramic<br><strong>Ceramic Type:</strong> Pottery<br><strong>Specification:</strong> 1<br><strong>Certification:</strong> SGS<br><strong>Style:</strong> Mediterranean Sea<br><strong>Model Number:</strong> G43<br><strong>Drinkware Type:</strong> Mugs<br><strong>Accessories:</strong> With None<br><strong>Type:</strong> Beer Mugs<br><strong>Shape:</strong> Handgrip</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 15-30 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541312041015</id>
+      <title>see chart 4</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>28582522-see-chart-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541312041015</id>
+      <title>see chart</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>28582522-see-chart</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541312041015</id>
+      <title>see chart 3</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28582522-see-chart-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541312041015</id>
+      <title>see chart 2</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28582522-see-chart-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541296640055</id>
+    <published>2020-05-26T09:02:20-07:00</published>
+    <updated>2020-05-26T09:02:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/donut-coffee-cup-ceramic-with-handle-milk-mug"/>
+    <title>Donut Coffee Cup Ceramic with Handle Milk Mug</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1358602657.jpg?v=1590508944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            20.99 - 22.99
+            <a href="https://yourlovelydecors.com/products/donut-coffee-cup-ceramic-with-handle-milk-mug">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Attridutes:</strong><br>Color:Pink,Coffee<br>Size-L:18*12*8cm<br>Size-S:13.5*6.3*10cm<br>Weight-L:470g<br>Weight-S:400g<br>Shape:Donut<br>Material:Ceramic<br>Style:Creative<br><br>Packing quantity:1PC*cup</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 15-30 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541296640055</id>
+      <title>1-S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>35517376-1-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541296640055</id>
+      <title>3-L</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35517376-3-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541296640055</id>
+      <title>1-L</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35517376-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541296640055</id>
+      <title>2-S</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>35517376-2-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541295329335</id>
+    <published>2020-05-26T08:59:18-07:00</published>
+    <updated>2020-05-26T08:59:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/imitation-enamel-cups-ceramic-mugs-cute-classic-nostalgic-creative-lover-coffee-mug-drinkware-europe-style-tea-cup"/>
+    <title>Imitation Enamel Cups Ceramic Mugs</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1047067000.jpg?v=1590508762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> CIQ<br><strong>Certification:</strong> CE / EU<br><strong>Brand Name:</strong> Smteapot<br><strong>Accessories:</strong> With None<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Specification:</strong> 1<br><strong>Style:</strong> Classic<br><strong>Model Number:</strong> Mug-178<br><strong>Material:</strong> ceramic<br><strong>Shape:</strong> Handgrip<br><strong>Type:</strong> Coffee Mugs<br><strong>Drinkware Type:</strong> Mugs<br><strong>Drinkware Type:</strong> Creative Mugs<br><strong>Capacity:</strong> 270ml<br><strong>Applicable People:</strong> Adults, Kids<br><strong>Style:</strong> Creative Design<br><strong>Usage:</strong> Fancy Gift, Perfect Drinkware for Coffee, Tea, Milk<br><strong>Size:</strong> 9*8cm</p>
+<p><span style="font-weight: 400;"> Estimated delivery within 39-59 business days.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541295329335</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28330345-sky-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541295329335</id>
+      <title>White</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28330345-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541295329335</id>
+      <title>Light Yellow</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28330345-light-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541295329335</id>
+      <title>Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28330345-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541294379063</id>
+    <published>2020-05-26T08:55:43-07:00</published>
+    <updated>2020-05-26T08:55:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/cartoon-ceramic-mug"/>
+    <title>Cartoon Ceramic Mug With Wooden Handle Lid Spoon</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1393315218.jpg?v=1590508548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            29.99 - 34.99
+            <a href="https://yourlovelydecors.com/products/cartoon-ceramic-mug">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> ceramic<br><strong>Ceramic Type:</strong> Porcelain<br><strong>Type:</strong> Milk Mugs<br><strong>Style:</strong> Brief<br><strong>Accessories:</strong> With Spoon<br><strong>Shape:</strong> With Lid<br><strong>Specification:</strong> 1<br><strong>Drinkware Type:</strong> Mugs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white romantic set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-white-romantic-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black sweet set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-black-sweet-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-white-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-black-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute dog 2 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-white-cute-dog-2-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute dog 1 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-white-cute-dog-1-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute cat 2 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-white-cute-cat-2-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute cat 1 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-white-cute-cat-1-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black Leaves 3 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-black-leaves-3-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black Leaves 2 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-black-leaves-2-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black Leaves 1 set</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36619938-black-leaves-1-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white romantic</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-white-romantic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36619938-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36619938-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute dog 1</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-white-cute-dog-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute cat 2</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-white-cute-cat-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute cat 1</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-white-cute-cat-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black sweet</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-black-sweet</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black Leaves 3</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-black-leaves-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black Leaves 2</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-black-leaves-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>black Leaves 1</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-black-leaves-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541294379063</id>
+      <title>white cute dog 2</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>36619938-white-cute-dog-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4541293723703</id>
+    <published>2020-05-26T08:52:35-07:00</published>
+    <updated>2020-05-26T08:52:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/3d-animal-creative-cute-owl-mugs-300ml-cartoon-coffee-mug-travel-ceramic-milk-tea-cups-breakfast-morning-porcelain-cup-xmas-gift"/>
+    <title>Cartoon Coffee Mug</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1365977135.jpg?v=1590508357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> ceramic<br><strong>Ceramic Type:</strong> Porcelain<br><strong>Specification:</strong> 1<br><strong>Certification:</strong> CIQ<br><strong>Certification:</strong> CE / EU<br><strong>Type:</strong> Coffee Mugs<br><strong>Style:</strong> Classic<br><strong>Model Number:</strong> I7R3QWL3022755<br><strong>Accessories:</strong> With None<br><strong>Feature:</strong> Eco-Friendly<br><strong>Shape:</strong> Handgrip</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Homedecor</s:tag>
+    <s:tag>Mugs</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541293723703</id>
+      <title>BG / 301-400ml</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35901621-bg-301-400ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541293723703</id>
+      <title>BL / 301-400ml</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35901621-bl-301-400ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541293723703</id>
+      <title>BR / 301-400ml</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35901621-br-301-400ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4541293723703</id>
+      <title>RD / 301-400ml</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>35901621-rd-301-400ml</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

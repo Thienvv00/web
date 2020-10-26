@@ -1,0 +1,2204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yourlovelydecors.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yourlovelydecors.com/collections/halloween.atom"/>
+  <title>Your Lovely Decors</title>
+  <updated>2020-09-13T21:49:22-07:00</updated>
+  <author>
+    <name>Your Lovely Decors</name>
+  </author>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610648539191</id>
+    <published>2020-09-13T21:49:22-07:00</published>
+    <updated>2020-09-13T21:49:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/new-pumpkin-candle-lights"/>
+    <title>New Pumpkin Candle Lights</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1014200794.jpg?v=1600058966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween decoration ideas<br>Decorative candles</strong></p>
+<p><strong>Pattern:</strong> Cartoon animal<br><strong>Material:</strong> Plastic<br><strong>Occasion:</strong> Easter<br><strong>Occasion:</strong> Party<br><strong>Occasion:</strong> HALLOWEEN<br><strong>Occasion:</strong> Christmas<br><strong>Occasion:</strong> New Year<br><strong>is_customized:</strong> No<br><strong>Model Number:</strong> YR036</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610648539191</id>
+      <title>Pumpkin</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>20282059-pumpkin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610648539191</id>
+      <title>Spider</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>20282059-spider</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610647490615</id>
+    <published>2020-09-13T21:43:42-07:00</published>
+    <updated>2020-09-13T21:43:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/elf-ear-fairy-cosplay"/>
+    <title>Elf Ear Fairy Cosplay</title>
+    <s:type>halloween</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1109053560.jpg?v=1600058624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>halloween<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Costume ideas<br>Makeup accessories<br>Halloween costume accessories</strong></p>
+<p><strong>Size:</strong> 13cm*6cm<br><strong>Characters:</strong> 1<br><strong>Gender:</strong> Unisex<br><strong>Department Name:</strong> Adult<br><strong>Material:</strong> Plastic<br><strong>Special Use:</strong> Costumes<br><strong>Item Type:</strong> Headwear<br><strong>Type1:</strong> Elf Ear<br><strong>Type2:</strong> Anime Ears<br><strong>Type3:</strong> Anime Accessories<br><strong>Type4:</strong> Horns Cosplay<br><strong>Material:</strong> Latex<br><strong>Length about:</strong> 13cm(5.12in)<br><strong>Width about:</strong> 6cm(2.36in)<br><strong>Color:</strong> Skin Color<br><strong>package:</strong> 1pair efl ear Toy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610647490615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>28921521-skincolor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610645852215</id>
+    <published>2020-09-13T21:39:20-07:00</published>
+    <updated>2020-09-13T21:39:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/super-big-horror-spider"/>
+    <title>Super Big Horror Spider</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1529825174.jpg?v=1600058364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            34.99 - 41.99
+            <a href="https://yourlovelydecors.com/products/super-big-horror-spider">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>is_customized:</strong> No</span><br><span><strong>Pattern:</strong> Animal</span><br><span><strong>Model Number:</strong> ZKF00233</span><br><span><strong>Material:</strong> Other</span><br><span><strong>Occasion:</strong> Halloween</span><br><span><strong>Material:</strong> foam, iron wire, plush</span><br><span><strong>Size:</strong> 30cm,50cm,75cm,90cm</span><br><span><strong>Quantity:</strong> 1pc</span><br><span><strong>Color:</strong> Black Color</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Outdoor Decoration</s:tag>
+    <s:tag>Halloween wall decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610645852215</id>
+      <title>75cm</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>29587401-75cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610645852215</id>
+      <title>90cm</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>29587401-90cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610645852215</id>
+      <title>30cm</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>29587401-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610645852215</id>
+      <title>50cm</title>
+      <s:price currency="USD">36.95</s:price>
+      <s:sku>29587401-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610012774455</id>
+    <published>2020-09-12T02:45:41-07:00</published>
+    <updated>2020-09-12T02:45:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/paper-straws"/>
+    <title>Paper Straws</title>
+    <s:type>halloween</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1498279664.jpg?v=1599903943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>halloween<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween decoration<br>Halloween ideas<br>Decorative straws</strong></p>
+<p><strong>Brand Name:</strong> YONGSNOW<br><strong>is_customized:</strong> No<br><strong>Pattern:</strong> DOT<br><strong>Pattern:</strong> Face<br><strong>Pattern:</strong> Cartoon animal<br><strong>Model Number:</strong> ZY68524<br><strong>Material:</strong> Paper<br><strong>Occasion:</strong> HALLOWEEN<br><strong>Occasion:</strong> Party<br><strong>Occasion:</strong> Birthday Party</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:tag>Halloween decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012774455</id>
+      <title>X01</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>39327519-x01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012774455</id>
+      <title>X02</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>39327519-x02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012774455</id>
+      <title>X05</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>39327519-x05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012774455</id>
+      <title>X03</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>39327519-x03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012774455</id>
+      <title>X04</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>39327519-x04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610012610615</id>
+    <published>2020-09-12T02:43:03-07:00</published>
+    <updated>2020-09-12T02:43:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/diy-glow-in-the-dark"/>
+    <title>DIY Glow In The Dark</title>
+    <s:type>Homedecor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1528180822.jpg?v=1599903789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Homedecor<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Decorative ideas<br>Home decoration<br>Decorate the desk<br>Light-emitting vial</strong></p>
+<p><strong>Brand Name:</strong> LZMOU<br><strong>is_customized:</strong> No<br><strong>Pattern:</strong> Star<br><strong>Pattern:</strong> Solid Color<br><strong>Model Number:</strong> LM808<br><strong>Material:</strong> Stone<br><strong>Product:</strong> Glow Gravel Luminous Noctilucent Sand<br><strong>Material:</strong> stone<br><strong>Quantity:</strong> 1bag<br><strong>A:</strong> Wedding decoration table<br><strong>B:</strong> Party DIY Decorations<br><strong>D:</strong> Baby shower<br><strong>Occasion:</strong> Party,Wedding,Anniversary</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>Desk accessories</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-gold</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-purple</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-yellow</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-air blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-air-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-blue</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-green</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012610615</id>
+      <title>Sand-pink</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172536-sand-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4610012250167</id>
+    <published>2020-09-12T02:39:31-07:00</published>
+    <updated>2020-09-12T02:39:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/3d-bat-decoration-wall-sticker"/>
+    <title>3D Bat Decoration Wall Sticker</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1528179398.jpg?v=1599903573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            2.99 - 6.99
+            <a href="https://yourlovelydecors.com/products/3d-bat-decoration-wall-sticker">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween decoration ideas<br>Halloween wall decoration</strong></p>
+<p><strong>Brand Name:</strong> cyuan<br><strong>is_customized:</strong> Yes<br><strong>Pattern:</strong> Animal<br><strong>Model Number:</strong> New<br><strong>Material:</strong> Paperboard<br><strong>Occasion:</strong> Party<br><strong>Occasion:</strong> HALLOWEEN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Outdoor Decoration</s:tag>
+    <s:tag>Halloween wall decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012250167</id>
+      <title>4 sheets stickers</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40172500-4-sheets-stickers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4610012250167</id>
+      <title>12pcs stickers</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>40172500-12pcs-stickers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608309461047</id>
+    <published>2020-09-08T03:01:14-07:00</published>
+    <updated>2020-09-08T03:01:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/led-hanging-skull-lightshow"/>
+    <title>LED Hanging Skull Lightshow</title>
+    <s:type>halloween</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-834445236.jpg?v=1599559278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>halloween<br>
+        <strong>Price: </strong>
+            7.99 - 20.99
+            <a href="https://yourlovelydecors.com/products/led-hanging-skull-lightshow">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>halloween lighting ideas</strong></p>
+<p><strong>Origin:</strong> CN(Origin)<br><strong>Color Temperature:</strong> &lt;2700K<br><strong>LED Chip Model:</strong> 1W High Power<br><strong>Occasion:</strong> living room<br><strong>Voltage:</strong> AC 85-265V<br><strong>Luminous Flux:</strong> 249 Lumens &amp; Under<br><strong>Shape:</strong> Irregular<br><strong>Average Life (hrs):</strong> &gt;10000 hours<br><strong>Length:</strong> 145mm<br><strong>Item Type:</strong> LED Bulbs<br><strong>Led Bulb Type:</strong> Bubble Ball Bulb<br><strong>LED Chip Brand:</strong> Epistar<br><strong>Certification:</strong> ROHS<br><strong>Certification:</strong> ce<br><strong>Beam Angle(°):</strong> 360°<br><strong>Base Type:</strong> E27<br><strong>Power Tolerance:</strong> 1%<br><strong>Material:</strong> Glass Cover &amp; Aluminum Lampholder<br><strong>Shape Model:</strong> Skull<br><strong>Power:</strong> 1.6-1.8W<br><strong>Color Temperature:</strong> RGB / Warm White</p>
+<p><strong>halloween lighting effects</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>Warm White</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>21036252-warm-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>RGB</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>21036252-rgb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-Bottle-WW</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>21036252-slb-bottle-ww</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-Diamond-WW</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>21036252-slb-diamond-ww</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-ST64-RGB</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>21036252-slb-st64-rgb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-G95-RGB</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>21036252-slb-g95-rgb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-ST64-WW</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>21036252-slb-st64-ww</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-G95-WW</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>21036252-slb-g95-ww</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-Bottle-RGB</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>21036252-slb-bottle-rgb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-Diamond-RGB</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>21036252-slb-diamond-rgb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608309461047</id>
+      <title>SLB-G95DS-WW</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>21036252-slb-g95ds-ww</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4608308281399</id>
+    <published>2020-09-08T02:49:55-07:00</published>
+    <updated>2020-09-08T02:49:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/led-candle-light"/>
+    <title>LED Candle Light</title>
+    <s:type>halloween</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1115403895.jpg?v=1599558598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>halloween<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>halloween lighting ideas</strong></p>
+<p><strong>Pattern:</strong> Cartoon animal<br><strong>Model Number:</strong> /<br><strong>Material:</strong> Plastic<br><strong>Occasion:</strong> HALLOWEEN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608308281399</id>
+      <title>Silver</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>29144820-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4608308281399</id>
+      <title>Golden</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>29144820-golden</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607539904567</id>
+    <published>2020-09-04T19:10:32-07:00</published>
+    <updated>2020-09-04T19:10:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/lights-maple-leaves-garland"/>
+    <title>Lights Maple Leaves Garland</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1449550401.jpg?v=1599271835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            6.99 - 8.99
+            <a href="https://yourlovelydecors.com/products/lights-maple-leaves-garland">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Door decoration, Halloween decorations, Autumn door rings, Halloween lighting ideas, Halloween led </p>
+<p>Model Number: Led String Lights<br>Material: Plastic<br>Item: Fairy Garland LED<br>Size: 1.5m 10 lights,3m 20 lights<br>Features: Waterproof<br>Power Source: Dry Battery<br>Color: Warm White<br>Operation: Battery Operated<br>S: Maple leaf<br>Festival: Halloween decoration</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>halloween</s:tag>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607539904567</id>
+      <title>1.5m 10 lights</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>19062637-1-5m-10-lights</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607539904567</id>
+      <title>3m 20 lights</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>19062637-3m-20-lights</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607290409015</id>
+    <published>2020-09-04T01:43:11-07:00</published>
+    <updated>2020-09-04T01:43:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/autumn-themed-door-material-home-decoration"/>
+    <title>Autumn Themed Door Material Home Decoration</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1412722426.jpg?v=1599208993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decoration</s:tag>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Outdoor Decoration</s:tag>
+    <s:tag>Halloween pumpkins</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607290409015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>37101350-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4607133745207</id>
+    <published>2020-09-03T19:03:03-07:00</published>
+    <updated>2020-09-03T19:03:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/women-cosplay-halloween-dress"/>
+    <title>Women Cosplay Halloween Dress</title>
+    <s:type>halloween</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1172166947.jpg?v=1599184985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>halloween<br>
+        <strong>Price: </strong>
+            25.99 - 30.99
+            <a href="https://yourlovelydecors.com/products/women-cosplay-halloween-dress">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>halloween dresses</strong></p>
+<p><strong>halloween costume ideas for women</strong></p>
+<p><strong>Gender:</strong> WOMEN<br><strong>Theme:</strong> Ghost<br><strong>Material:</strong> Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>halloween</s:tag>
+    <s:tag>halloween costumes</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607133745207</id>
+      <title>2 / XL</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>31143151-2-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607133745207</id>
+      <title>2 / L</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>31143151-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607133745207</id>
+      <title>2 / M</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>31143151-2-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607133745207</id>
+      <title>1 / XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>31143151-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607133745207</id>
+      <title>1 / L</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>31143151-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4607133745207</id>
+      <title>1 / M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>31143151-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4602768130103</id>
+    <published>2020-08-27T19:45:03-07:00</published>
+    <updated>2020-08-27T19:45:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/artificial-pumpkin-wreath"/>
+    <title>Artificial Pumpkin  Wreath</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1490085443.jpg?v=1598582709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            16.99 - 28.99
+            <a href="https://yourlovelydecors.com/products/artificial-pumpkin-wreath">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> Pumpkin Maple Leaves Wreath</strong></p>
+<p>- Hang it above your fireplace, place it on your front door, or on a living room wall.<br>- The wreath can be used indoor or outdoor making it a versatile decorating accessory.<br>- Display this decorative wreath outside all day long with no worry about the changing weather conditions.<br>- Suitable for Thanksgiving, Christmas, Halloween Dining Table, Display Window and Front Door Decoration.<br>- Ideal for Christmas party, wedding, bedroom, garden, balcony, swing stand, shopping malls, staircase and many other decorations.<br><strong>Classification:</strong> Artificial Flowers<br><strong>Style:</strong> Flower<br><strong>Flower Style:</strong> Flower Head<br><strong>Occasion:</strong> HALLOWEEN<br><strong>Material:</strong> non-woven fabrics</p>
+<div class="shipping-details__shipping-info" data-v-aa517002=""> </div>
+<div class="shipping-details__estimated-delivery" data-v-aa517002="">Estimated delivery time 15-30 days</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween Window Decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>G</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39092828-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>F</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>39092828-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>E</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39092828-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>D</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39092828-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>C</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>39092828-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>B</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>39092828-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>A</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>39092828-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>J</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>39092828-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>I</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39092828-i</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602768130103</id>
+      <title>H</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39092828-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4602518700087</id>
+    <published>2020-08-27T03:03:08-07:00</published>
+    <updated>2020-08-27T03:03:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/plush-pumpkin-pillow"/>
+    <title>Plush Pumpkin Pillow</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1097688440.jpg?v=1598522590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            16.99 - 21.99
+            <a href="https://yourlovelydecors.com/products/plush-pumpkin-pillow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween Pumpkin Pillow Mat</strong></p>
+<p><br><strong>Material:</strong> Plush<br><strong>Form:</strong> Fruit Series<br><strong>Theme:</strong> TV &amp; Movie Character<br><strong>Features:</strong> Stuffed &amp; Plush<br><strong>Type:</strong> Cushion/Pillow<br><strong>Dimensions:</strong> 30CM-40CM<br>30 cm gewicht 270 g</p>
+<p>40cm gewicht 470g</p>
+<p>Estimated delivery time 39-59 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween pumpkins</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602518700087</id>
+      <title>40cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>28610161-40cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602518700087</id>
+      <title>30cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>28610161-30cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4602517782583</id>
+    <published>2020-08-27T02:55:30-07:00</published>
+    <updated>2020-08-27T02:55:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/witch-hats-light-for-halloween"/>
+    <title>Witch Hats Light for halloween</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1514530186.jpg?v=1598522131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween witch hat light</strong></p>
+<p>Includes 5 witch hats that can be used outdoor.</p>
+<p>Each witch hat measures 14.5 inches in diameter and 13.4 inches in length, that these Halloween hats can be easily noticed even when used outdoor</p>
+<p>Decorate your lawn, front door, window, furniture and have them all lit up. The lights shine bright at night and create a special atmosphere for your Halloween.</p>
+<p><br>Material: polyester taffeta<br>Color: rose red, red, orange, purple, black<br>Size: Hat height: 34cm; outer diameter: 37cm; inner diameter: 19cm</p>
+<p>Estimated Delivery: 16-26 days</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4602517782583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>39798057-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4601710018615</id>
+    <published>2020-08-26T01:13:59-07:00</published>
+    <updated>2020-08-26T01:13:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/ghost-pumpkin-decorations"/>
+    <title>Ghost Pumpkin Decorations</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1484559566.jpg?v=1598429641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween outdoor ghost</strong></p>
+<p><strong>Pattern:</strong> Cartoon animal<br><strong>Material:</strong> polyester<br><strong>Occasion:</strong> Wedding &amp; Engagement/Birthday Party/HALLOWEEN/Graduation<br><strong>Size:</strong> 142cm*87cm<br><strong>Weight:</strong> 535g</p>
+<p><strong>Estimated delivery time 15-30 days</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween Outdoor Decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601710018615</id>
+      <title>UK plug</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>38940661-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601710018615</id>
+      <title>US plug</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>38940661-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601710018615</id>
+      <title>EU plug</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>38940661-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4601704382519</id>
+    <published>2020-08-26T00:25:59-07:00</published>
+    <updated>2020-08-26T00:25:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-light-pumpkin"/>
+    <title>Halloween Light Pumpkin</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1465143568.jpg?v=1598426761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>halloween paper lanterns</strong></p>
+<p><strong>Brand Name:</strong> YONGSNOW<br><strong>Pattern:</strong> Cartoon animal<br><strong>Material:</strong> Paper<br><strong>Occasion:</strong> HALLOWEEN<br><strong>Occasion:</strong> Party<br><strong>Power Supply:</strong> 2 X AAA battery(not included)<br><strong>Diameter:</strong> 20cm</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601704382519</id>
+      <title>B02</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>38435445-b02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601704382519</id>
+      <title>B03</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>38435445-b03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601704382519</id>
+      <title>B01</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>38435445-b01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601704382519</id>
+      <title>B06</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>38435445-b06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601704382519</id>
+      <title>B04</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>38435445-b04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601704382519</id>
+      <title>B05</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>38435445-b05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4601636978743</id>
+    <published>2020-08-25T19:42:33-07:00</published>
+    <updated>2020-08-25T19:42:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/kawaii-pumpkin"/>
+    <title>Kawaii Pumpkin</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1269578848.jpg?v=1598409755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            12.99 - 28.99
+            <a href="https://yourlovelydecors.com/products/kawaii-pumpkin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Theme:</strong> pumpkin<br><strong>Type:</strong> Cushion/Pillow<br><strong>Age Range:</strong> 12-15 Years<br><strong>Age Range:</strong> Grownups<br><strong>Age Range:</strong> 8-11 Years<br><strong>Features:</strong> Stuffed &amp; Plush<br><strong>Item Type:</strong> Plants<br><strong>Filling:</strong> PP Cotton<br><strong>Model Number:</strong> 01<br><strong>Dimensions:</strong> 45cm<br><strong>Gender:</strong> Unisex<br><strong>Warning:</strong> no<br><strong>Form:</strong> Fruit Series</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween pumpkins</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601636978743</id>
+      <title>1 / 14cm</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2292910-1-14cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601636978743</id>
+      <title>2 / 14cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2292910-2-14cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601636978743</id>
+      <title>1 / 45cm</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2292910-1-45cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601636978743</id>
+      <title>2 / 45cm</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>2292910-2-45cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4601631637559</id>
+    <published>2020-08-25T19:16:29-07:00</published>
+    <updated>2020-08-25T19:16:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/gothic-skull"/>
+    <title>Gothic Skull</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1328707160.jpg?v=1598408192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>cool halloween decorations</strong></p>
+<p><strong>Usage Condition:</strong> Desktop<br><strong>Finishing:</strong> Not Coated<br><strong>Style:</strong> Cool,Gothic<br><strong>Model Number:</strong> Skull flower pot<br><strong>Used With:</strong> Flower/Green Plant<br><strong>Type:</strong> Planter<br><strong>Material:</strong> PVC<br><strong>Color:</strong> Black,Brown<br><strong>Size:</strong> As pic shown<br><strong>Occasion:</strong> Home,Office,Bar,Wedding,Party,etc<br><strong>Use for:</strong> Plant<br><strong>Dimensions:</strong> 16-18cm<br><strong>Condition:</strong> In-Stock Items<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601631637559</id>
+      <title>Black</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>18235434-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601631637559</id>
+      <title>Brown</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>18235434-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4601395773495</id>
+    <published>2020-08-25T02:26:39-07:00</published>
+    <updated>2020-08-25T02:26:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/3-5m-96-led-halloween-curtain-light-strings-skull"/>
+    <title>Halloween Curtain Light Strings Skull</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1099248746.jpg?v=1598347602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>halloween light string</p>
+<p><br><strong>Body Material:</strong> Plastic<br><strong>Battery Type:</strong> none<br><strong>Light Source:</strong> LED Bulbs<br><strong>Voltage:</strong> 220V<br><strong>Length:</strong> 350cm<br><strong>Lighting Distance:</strong> 1-5m<br><strong>Color:</strong> White/Multi/Warm White<br><strong>Head Number:</strong> 51-100 head<br><strong>Model Number:</strong> 3.5m 96leds<br><strong>Features:</strong> Skull And Crossbones<br><br></p>
+<div class="shipping-details__estimated-delivery" data-v-aa517002="">Estimated delivery time 15-30 days</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601395773495</id>
+      <title>multicolor / 110V US plug</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28641746-multicolor-110v-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601395773495</id>
+      <title>multicolor / 220V EU plug</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28641746-multicolor-220v-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601395773495</id>
+      <title>warm white / 110V US plug</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28641746-warm-white-110v-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601395773495</id>
+      <title>warm white / 220V EU plug</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28641746-warm-white-220v-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601395773495</id>
+      <title>white / 110V US plug</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28641746-white-110v-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4601395773495</id>
+      <title>white / 220V EU plug</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>28641746-white-220v-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4600226840631</id>
+    <published>2020-08-20T21:20:02-07:00</published>
+    <updated>2020-08-20T21:20:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/novelty-led-fairy-lights"/>
+    <title>Novelty LED Fairy Lights</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1403036315.jpg?v=1597983604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            12.99 - 17.99
+            <a href="https://yourlovelydecors.com/products/novelty-led-fairy-lights">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>halloween lighting ideas</strong></p>
+<p><strong>halloween led </strong></p>
+<p><strong>Body Material:</strong> Plastic<br><strong>Battery Type:</strong> AA<br><strong>Voltage:</strong> 3V<br><strong>Is Dimmable:</strong> No<br><strong>Base Type:</strong> Wedge<br><strong>Power Source:</strong> Dry Battery<br><strong>Lighting Distance:</strong> 1-5m<br><strong>Head Number:</strong> 20-50 head<br><strong>Power input:</strong> Battery box/USB connector<br><strong>LED quantity:</strong> 10 leds/20leds<br><strong>The length:</strong> 1.6m/3.2m<br><strong>Emitting color:</strong> Warm white/Cold white<br><strong>The Material:</strong> Alloy Steel<br><strong>Metal Color:</strong> Rose Gold</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600226840631</id>
+      <title>Warm White / Battery box / 3.2m  20led</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>21156275-warm-white-battery-box-3-2m-20led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600226840631</id>
+      <title>Warm White / Battery box / 1.6m  10led</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>21156275-warm-white-battery-box-1-6m-10led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600226840631</id>
+      <title>Warm White / USB connector / 3.2m  20led</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>21156275-warm-white-usb-connector-3-2m-20led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4600226840631</id>
+      <title>White / Battery box / 1.6m  10led</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>21156275-white-battery-box-1-6m-10led</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4599177248823</id>
+    <published>2020-08-18T19:12:57-07:00</published>
+    <updated>2020-08-18T19:12:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/lights-online"/>
+    <title>USB Power Remote Control Curtain Fairy Lights</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1434342433.jpg?v=1597803182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            11.99 - 16.99
+            <a href="https://yourlovelydecors.com/products/lights-online">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>diwali lights online<br><strong>Body Material:</strong> Plastic<br><strong>Light Source:</strong> LED Bulbs<br><strong>Remote Control:</strong> Yes<br><strong>Voltage:</strong> 220V<br><strong>Is Dimmable:</strong> Yes<br><strong>Power Source:</strong> AC<br><strong>Length:</strong> 30inch<br><strong>Lighting Distance:</strong> 6-10m<br><strong>Color:</strong> White Warm White<br><strong>Head Number:</strong> 151-200 head<br><strong>Certification:</strong> CCC ce Bedroom<br><strong>Waterproof?:</strong> Yes<br><strong>Color:</strong> Warm white/White/RGB/Blue<br><strong>Strands Qty:</strong> 10 Strands<br><strong>Sizes:</strong> 3mx1m/3mx2m/3mx3m<br><strong>LED Qty:</strong> 100leds/200leds/300leds<br><strong>Plug wire length:</strong> 3M<br><strong>String material:</strong> Copper wire<br><strong>Advantage:</strong> Easy to control</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Warm white / USB power / 3mx1m</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31838787-warm-white-usb-power-3mx1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Warm white / USB power / 3mx2m</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>31838787-warm-white-usb-power-3mx2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Warm white / USB power / 3mx3m</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31838787-warm-white-usb-power-3mx3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Multicolor / USB power / 3mx1m</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31838787-multicolor-usb-power-3mx1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Multicolor / USB power / 3mx2m</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>31838787-multicolor-usb-power-3mx2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Multicolor / USB power / 3mx3m</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31838787-multicolor-usb-power-3mx3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>White / USB power / 3mx1m</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31838787-white-usb-power-3mx1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>White / USB power / 3mx2m</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>31838787-white-usb-power-3mx2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>White / USB power / 3mx3m</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31838787-white-usb-power-3mx3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Blue / USB power / 3mx3m</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31838787-blue-usb-power-3mx3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Blue / USB power / 3mx2m</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>31838787-blue-usb-power-3mx2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4599177248823</id>
+      <title>Blue / USB power / 3mx1m</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31838787-blue-usb-power-3mx1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4597947793463</id>
+    <published>2020-08-15T01:41:19-07:00</published>
+    <updated>2020-08-15T01:41:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-decoration-props-led-candles-light"/>
+    <title>Halloween Decoration Props Led Candles Light</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1018253326.jpg?v=1597480883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> PVC<br><strong>Pattern:</strong> Cartoon animal<br><strong>Pattern:</strong> Cartoon Figure<br><strong>is_customized:</strong> No<br><strong>Model Number:</strong> Halloween Lantern Light<br><strong>Item:</strong> Halloween Lantern Light<br><strong>Size:</strong> 5.5*5.5*12.5cm(L*W*H)<br><strong>Occasion:</strong> Halloween Decorations Horror<br><strong>Feature:</strong> simulation flame<br><strong>Operated way:</strong> Battery powered<br><strong>Occasion1:</strong> halloween decoration skeleton<br><strong>Occasion2:</strong> Festival party supplies<br><strong>Occasion3:</strong> helloween decoracion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween Light</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>B</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>C</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>A</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>Light Grey</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-light-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>Light Green</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-light-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>Light Yellow</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-light-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>Dark Khaki</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-dark-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597947793463</id>
+      <title>Dark Gray</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27429492-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4597427470391</id>
+    <published>2020-08-14T02:39:59-07:00</published>
+    <updated>2020-08-14T02:39:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-ghost-witch-doll"/>
+    <title>Halloween Ghost Witch Doll</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1488269979.jpg?v=1597398003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            24.99 - 30.99
+            <a href="https://yourlovelydecors.com/products/halloween-ghost-witch-doll">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween Witch Doll</strong></p>
+<p><strong>Pattern:</strong> Boy &amp; Girl/Bride &amp; Groom/Lattice/Letter<br><strong>Material:</strong> Straw<br><strong>Occasion</strong><strong>:</strong> halloween decoration<br><strong>Estimated delivery time 16-26 days</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween window decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597427470391</id>
+      <title>Green / 25X75cm</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>39043523-green-25x75cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597427470391</id>
+      <title>Blue / 25X75cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>39043523-blue-25x75cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597427470391</id>
+      <title>Red / 25X75cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>39043523-red-25x75cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4597108375607</id>
+    <published>2020-08-13T02:55:32-07:00</published>
+    <updated>2020-08-13T02:55:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-wall-stickers"/>
+    <title>Halloween Wall Stickers</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1344500021.jpg?v=1597312545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            12.99 - 29.99
+            <a href="https://yourlovelydecors.com/products/halloween-wall-stickers">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Specification:</strong> Single-piece Package<br><strong>Pattern:</strong> Plane Wall Sticker<br><strong>Style:</strong> Modern<br><strong>Classification:</strong> For Refrigerator, For Smoke Exhaust,For Cabinet Stove,For Tile, Furniture Stickers,Switch Panel Stickers, Floor Stickers,Window Stickers<br><strong>Scenarios:</strong> WALL<br><strong>Theme:</strong> PATTERN<br><strong>Model Number:</strong> W378<br><strong>Material:</strong> PVC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween decor</s:tag>
+    <s:tag>Halloween wall decoration</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>31 Violet / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-31-violet-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>21 Teal / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-21-teal-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>31 Violet / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-31-violet-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>31 Violet / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-31-violet-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>21 Teal / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-21-teal-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>29 Hydrangea Purple / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-29-hydrangea-purple-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>21 Teal / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-21-teal-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>21 Teal / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-21-teal-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>36 Fuchsia / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-36-fuchsia-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>35 Soft Pink / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-35-soft-pink-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>36 Fuchsia / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-36-fuchsia-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>36 Fuchsia / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-36-fuchsia-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>35 Soft Pink / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-35-soft-pink-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>31 Violet / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-31-violet-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>35 Soft Pink / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-35-soft-pink-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>35 Soft Pink / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-35-soft-pink-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>36 Fuchsia / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-36-fuchsia-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>30 Purple / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-30-purple-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>27 Gray / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-27-gray-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>30 Purple / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-30-purple-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>30 Purple / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-30-purple-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>27 Gray / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-27-gray-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>24 Brown / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-24-brown-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>27 Gray / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-27-gray-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>27 Gray / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-27-gray-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>12 Light Blue / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-12-light-blue-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>16 King Blue / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-16-king-blue-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>12 Light Blue / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-12-light-blue-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>12 Light Blue / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-12-light-blue-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>16 King Blue / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-16-king-blue-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>30 Purple / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-30-purple-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>16 King Blue / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-16-king-blue-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>16 King Blue / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-16-king-blue-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>28 Dark Gray / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-28-dark-gray-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>13 Medium Blue / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-13-medium-blue-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>28 Dark Gray / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-28-dark-gray-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>28 Dark Gray / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-28-dark-gray-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>13 Medium Blue / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-13-medium-blue-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>12 Light Blue / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-12-light-blue-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>13 Medium Blue / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-13-medium-blue-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>13 Medium Blue / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-13-medium-blue-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>29 Hydrangea Purple / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-29-hydrangea-purple-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>26 State Gray / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-26-state-gray-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>29 Hydrangea Purple / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-29-hydrangea-purple-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>29 Hydrangea Purple / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-29-hydrangea-purple-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>26 State Gray / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-26-state-gray-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>28 Dark Gray / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-28-dark-gray-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>26 State Gray / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-26-state-gray-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>26 State Gray / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-26-state-gray-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>White / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-white-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Black / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-black-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>White / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-white-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>White / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-white-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Black / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-black-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Black / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-black-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Black / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-black-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>06 Orange / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-06-orange-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>04 Yellow / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-04-yellow-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>06 Orange / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-06-orange-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>06 Orange / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-06-orange-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>04 Yellow / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-04-yellow-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>White / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-white-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>04 Yellow / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-04-yellow-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>04 Yellow / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-04-yellow-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>10 Blush / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-10-blush-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Red / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-red-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>10 Blush / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-10-blush-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>10 Blush / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-10-blush-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Red / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-red-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>06 Orange / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-06-orange-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Red / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-red-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>Red / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-red-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>24 Brown / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-24-brown-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>19 Green / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-19-green-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>24 Brown / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-24-brown-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>24 Brown / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-24-brown-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>19 Green / 31x57cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35385414-19-green-31x57cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>10 Blush / 74x135cm</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35385414-10-blush-74x135cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>19 Green / 57x104cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>35385414-19-green-57x104cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597108375607</id>
+      <title>19 Green / 42x76cm</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35385414-19-green-42x76cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yourlovelydecors.com/products/4597102018615</id>
+    <published>2020-08-13T02:45:50-07:00</published>
+    <updated>2020-08-13T02:45:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://yourlovelydecors.com/products/halloween-stickers-for-wall-window-decor"/>
+    <title>Halloween Stickers</title>
+    <s:type>Halloween decor</s:type>
+    <s:vendor>QT-AdelinaGreenHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0270/4726/4311/products/product-image-1485999581.jpg?v=1597311954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-AdelinaGreenHouse<br>
+        <strong>Type: </strong>Halloween decor<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halloween wall decal</strong></p>
+<p><strong>Material:</strong> PVC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween  wall decoration</s:tag>
+    <s:tag>Halloween decor</s:tag>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Black / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-black-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Blue / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-blue-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Yellow / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-yellow-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Coffee / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-coffee-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Purple / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-purple-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Red / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-red-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Silver / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-silver-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>White / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-white-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Gold / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-gold-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Gray / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-gray-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Green / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-green-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yourlovelydecors.com/products/4597102018615</id>
+      <title>Pink / 35 50cm</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>38979598-pink-35-50cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
